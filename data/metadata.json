@@ -1,0 +1,35 @@
+{
+  "project": "October 7–9, 2023 unit deployment locations (merged)",
+  "time_window": {
+    "start_local": "2023-10-07T00:00:00+03:00",
+    "end_local": "2023-10-09T23:59:59+03:00",
+    "rationale": "User-specified default: Oct 7 local time through first 48 hours."
+  },
+  "canonicalization_rules": [
+    "Normalize kibbutz/city names to a single English canonical (e.g., Kibbutz Be'eri).",
+    "Distinguish Re'im Base (Gaza Division HQ) from Kibbutz Re'im.",
+    "Treat named junctions, memorial sites, and road segments as distinct locations when explicitly named.",
+    "Do not count transit roads unless source describes them as a combat/deployment node."
+  ],
+  "confidence_definitions": {
+    "VERIFIED": "Explicitly named unit+location in official IDF publication OR probe-based reconstruction tied to an IDF probe/investigation.",
+    "LIKELY": "Named unit+location by a major outlet but not clearly tied to a probe or lacking corroboration.",
+    "UNCONFIRMED": "Attachment-only claim without retrievable URL and/or without specific location; or otherwise not corroborated."
+  },
+  "resolution_rules": [
+    "Prefer official IDF publications and published inquiries.",
+    "Prefer Hebrew-language official/primary sources over translations/secondary.",
+    "Prefer probe-based reconstructions that explicitly attribute to an IDF probe.",
+    "Require a source that names BOTH the unit AND the location to mark VERIFIED."
+  ],
+  "source_priority_order": [
+    "idf.il (official IDF publications and inquiries)",
+    "timesofisrael.com probe-based reconstructions tied to IDF probes",
+    "Israel Police / ISA official releases (when available)",
+    "Ynet / Haaretz / Walla / Mako (major Israeli outlets)",
+    "Reuters / AP (contextual; rarely unit-location specific)"
+  ],
+  "inputs": {
+    "attachment_spreadsheet": "יחידות_מקורות.xlsx"
+  }
+}
