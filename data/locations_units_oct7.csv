@@ -1,0 +1,38 @@
+Source,Location,Lon,Lat,Units,Time,Fatalities,Injured,Kidnapped,Type,SOF,No_Military_Response
+IDF,Nova festival,31.397774,34.471685,"Brigade 35 Bn 101, Police, Shabas, Brigade 7 Bn 77, Brigade 84 Bn 424, Brigade 90, Search and Rescue, Mali, Platoon Commanders Course",6:30,378,0,44,festival,0,FALSE
+IDF,Kibbutz Be'eri,31.424513,34.492567,"Yamam, Yamas, Matpa, 504, Shaldag, Yahalom, Brigade 89 Bn 217, Sayeret Matkal, Brigade 35 Bn 890, Oketz, Engineering corps, Shayetet 13, Brigade 888, Lotar, Division 36 Head squad, Brigade 7",6:30,132,0,30,kibbutz,1,FALSE
+  IDF,Kibbutz Kfar Aza,31.483416,34.532291,"Gideonim 33, Yamas, Police, Shabak, 669, Unit 5515, Eitan battalion, Yasar 98, Brigade 84 Bn 424, Platoon Commanders Course, Yahalom, Shaldag, Lotar",6:31,93,0,19,kibbutz,1,FALSE
+  IDF,Nahal Oz military base,31.479973,34.501581,"Brigade 1 Bn 13, Brigade 7 Bn 77, Division 143 Bn 414, Shaldag",6:50,53,0,10,military,1,FALSE
+  IDF,Ofakim,31.311337,34.622824,"Bahad 1, Yamam, Yasam, Yoav, Border Police, Police",6:45,33,0,0,town,1,FALSE
+  IDF,Kibbutz Nir Oz,31.310278,34.402222,No military response,6:30,51,0,76,kibbutz,0,TRUE
+  IDF,Kibbutz Nahal Oz,31.472633,34.497883,"Yamas, Brigade 1 Bn 13, Brigade 7 Bn 77, Brigade 84 Bn 846",6:45,19,8,0,kibbutz,1,FALSE
+  IDF,Zikim Beach,31.612816,34.504361,"Navy, Brigade 1, Brigade 89 Bn 212",6:36,19,0,0,town,1,FALSE
+  IDF,Kibbutz Nativ Ha'Asara,31.572407,34.539322,"Brigade 7 Bn 77, Brigade 1, Brigade 35",6:34,17,0,0,kibbutz,0,FALSE
+    IDF,Zikim military base,31.604193,34.510175,"Brigade 60 Bn 489, Brigade 89 Bn 212, Brigade 60 Bn 894",7:14,7,0,0,military,1,FALSE
+    IDF,Kisufim military base,31.375316,34.402138,"Brigade 1 Bn 51, Brigade 89 Bn 621, Brigade 401 Bn 9, Division 143",6:57,17,0,0,military,1,FALSE
+    IDF,Kibbutz Kisufim,31.374167,34.399444,"Brigade 1 Bn 51, Brigade 828 Bn 450, Brigade 84 Bn 424, Brigade 35",6:55,27,0,1,kibbutz,1,FALSE
+    Kan360,Psyduck festival,31.322222,34.400556,No military response,7:15,17,0,0,festival,0,TRUE
+    IDF,Kibbutz Alumim,31.452826,34.513025,"Brigade 1 Bn 13, Brigade 35 Bn 890, Brigade 646, 504, Yahalom, Shaldag, Brigade 7 Bn 77",7:01,62,0,5,kibbutz,1,FALSE
+    Wikipedia,Kibbutz Holit,31.230563,34.327344,"Brigade 512 squad, Brigade 512 Bn 277, Brigade 512 Bn 33, Shaldag, Lotar",6:30,18,0,6,kibbutz,1,FALSE
+    Wikipedia,Sufa military base,31.239006,34.342176,"Brigade 933 Bn 50, Brigade 933 Bn 934, Air force, Brigade 7 Bn 77",6:30,13,0,0,military,1,FALSE
+    IDF,Re'im military base,31.362732,34.449217,"Division 143, Yahalom, Shaldag, Brigade 35, Sayeret Matkal, Brigade 6643 former commander",6:30,6,0,0,military,1,FALSE
+      IDF,Sderot,31.522443,34.592029,"Yamas, Border Police, Yoav, Police, Lotar, Yahalom, Brigade 84, Brigade 401, Brigade 35 Bn school, Division 877",7:00,53,0,0,town,1,FALSE
+      IDF,Kibbutz Nirim,31.335875,34.394184,"Yamas, Border Police, Brigade 828 Bn 450, Bahad 1 Bn Geffen, Brigade 89, Platoon Commanders",6:33,15,13,0,kibbutz,1,FALSE
+      IDF,Orim military base,31.314444,34.542935,"Homefront command, Brigade 828 Bn 450, Brigade 60 Bn 498 commander squad, MALI commander",7:21,8,0,0,military,1,FALSE
+      IDF,"Kibbutz Mefalsim, Black Arrow, Shaar Hanegev Junction",31.501868,34.562415,"Shabak, Yamam, Gideonim, Brigade 933 Bn 931, Brigade 551, Brigade 89 Bn 217, Yahalom, Brigade 89",6:30,90,13,0,kibbutz,1,FALSE
+      IDF,Moshav Yakhini and the area,31.482125,34.598668,"Border Police, Yamam, Yasam, Police, Sayeret Matkal, individual officers from different units",7:39,17,0,0,town,1,FALSE
+      IDF,Kibbutz Re'im,31.385553,34.459385,"Yasam Negev, Mazada Shabas, Metilam, Shikma, Brigade 90, Brigade 84 Bn 424, Sayeret Matkal, Brigade 35",7:51,22,5,0,kibbutz,1,FALSE
+        IDF,Kibbutz Nir Yitzhak,31.235814,34.357982,"Lotar, Brigade 89 Bn 217, Lotar 7707",6:30,6,8,0,kibbutz,1,FALSE
+        IDF,Moshav Mivtahim,31.242433,34.407388,"Magen, Metilan, Police, Lotar Arava, Border Protection school",7:02,5,0,0,town,1,FALSE
+        IDF,Kibbutz Ein HaShlosha,31.350903,34.400535,"Barak, Metilan, Brigade 1 Bn 51, Brigade 7 Bn 77, 5252 unit, Airforce",6:30,4,0,0,kibbutz,0,FALSE
+        IDF,Kibbutz Kerem Shalom,31.228326,34.281879,"Brigade 7 Bn 77, Brigade 828, Brigade 933 Bn 934, Air force",6:34,4,0,0,kibbutz,0,FALSE
+        IDF,Kibbutz Sufa,31.237457,34.341964,"Lotar 7707 commander squad, Division 80 deputy commander squad, Yahalom, Air force",6:45,3,0,0,kibbutz,1,FALSE
+        IDF,Kibbutz Erez,31.560056,34.564632,No military response,6:30,1,0,0,kibbutz,0,TRUE
+        IDF,Kibbutz Pri Gan,31.222243,34.355898,"Yamas, Police, Brigade 512 Bn 33",7:20,4,5,0,kibbutz,1,FALSE
+        Makor Rishon,Kibbutz Magen,31.298114,34.427197,No military response,6:40,1,0,0,kibbutz,0,TRUE
+        Kan360,Kibbutz Nir Am,31.518123,34.581843,"Brigade 1 Bn 12, Brigade 1 Bn 13, tank, Border Police tactical unit",6:30,2,2,0,kibbutz,0,FALSE
+        Kan360,Moshav Yated,31.206813,34.326192,"Reserves, Bahad 1, Bn 33 deputy commander, Brigade 512 commander",7:00,0,0,0,town,0,FALSE
+        Kan360,Kibbutz Gevim,31.506139,34.598881,"Brigade 1, Border Police, Brigade 89 Bn 212",6:37,0,0,0,kibbutz,1,FALSE
+        Wikipedia,Moshav Ein HaBesor,31.282312,34.440369,No military response,6:30,0,0,0,town,0,TRUE
+        IDF,Kibbutz Zikim,31.607145,34.520456,"Brigade 1 deputy platoon commander squad, Shabak fighter",6:40,0,0,0,kibbutz,0,FALSE
+        Kan360,Kibbutz Sa'ad,31.470267,34.534853,"Brigade 401, Police, soldiers, Brigade 55",6:35,0,0,0,kibbutz,0,FALSE
