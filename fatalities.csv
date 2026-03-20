@@ -1,0 +1,370 @@
+שם,Name,Gender,דרגה,Rank,סדיר/מילואים,Conscript/Reserves/ Professional,Role,Role type ,Unit,Branch ,SOF,Officer,Combat,Joined,Date,Time,Location ,Time until operational control  ,# Killed ,# Kidnapped ,Latitude ,Longitude,Source 
+תומר שוהם,Tomer Shoham,1,סרן,Captain ,סדיר,Professional ,Platoon Commander,1,Brigade 933 Battalion 934,Military ,0,1,1,0,"October 7, 2023",9,Kerem Shalom ,6,4,0,31.229,34.287,OD
+מתן מלכה,Matan Malka,1,סמל,Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 35 Battalion 101,Military ,0,0,1,0,"October 7, 2023",9,Kissufim,10,15,1,31.374,34.399,OD
+אופק ארביב,Ofek Arbib,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 35 Battalion 101,Military ,0,0,0,0,"October 7, 2023",2,Mefalsim,6,90,13,31.502,34.561,OD
+בר יענקלוב,Bar Yankilov,1,סמל,Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 35 Battalion 101,Military ,0,0,1,0,"October 7, 2023",9,Kissufim,10,15,1,31.374,34.399,OD
+לביא בוחניק,Lavi Buhnik,1,סמל,Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 35 Battalion 101,Military ,0,0,1,0,"October 7, 2023",9,Kissufim,10,15,1,31.374,34.399,OD
+רגב אמר,Regev Amar,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 35 Battalion 101,Military ,0,0,1,0,"October 7, 2023",9,Kissufim,10,15,1,31.374,34.399,OD
+אייל קליין,Eyal Klein,1,סרן,Captain ,סדיר,Professional ,Combat Soldier,1,Brigade 35 Battalion 101,Military ,0,1,1,0,"October 7, 2023",3,Sufa Outpost ,14,13,0,31.239,34.342,OD
+דניאל ראשד,Daniel Rashed,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 13,Military ,0,0,1,0,"October 7, 2023",7,Nahal Oz Post,10,53,10,31.479,34.496,OD
+איתמר בן יהודה,Itamar Ben Yehuda,1,סמ״ר,Staff Sergeant,סדיר,Reserves,Medic ,1,Brigade 1 Battalion 13,Military ,0,0,1,0,"October 7, 2023",9,Paga Outpost ,11,13,0,31.451,34.473,OD
+איתי אברהם רון,Itay Avraham Ron,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 13,Military ,0,0,1,0,"October 7, 2023",7,Nahal Oz Post,10,53,10,31.479,34.496,OD
+אורי כרמי,Ori Karmi,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 13,Military ,0,0,1,0,"October 7, 2023",2,Nahal Oz Post ,10,53,10,31.479,34.496,OD
+דור לזימי,Dor Lazimi,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Squad Commander,1,Brigade 1 Battalion 13,Military ,0,0,1,0,"October 7, 2023",2,Nahal Oz Post ,10,53,10,31.479,34.496,OD
+שוהם שלמה נידם,Shuham Shlome Nidam,1,סמל,Sergeant,סדיר,Conscript,Technician ,0,Brigade 1 Battalion 13,Military ,0,0,1,0,"October 7, 2023",2,Nahal Oz Post ,10,53,10,31.479,34.496,OD
+אדיר אישטו בוגלה,Adir Eshto Bogale,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 13,Military ,0,0,1,0,"October 7, 2023",2,Nahal Oz Post ,10,53,10,31.479,34.496,OD
+נהוראי לוי אמיתי,Nehoray Levi Amitay,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Squad Commander,1,Brigade 1 Battalion 13,Military ,0,0,1,0,"October 7, 2023",3,Nahal Oz Post,10,53,10,31.479,34.496,OD
+שילה הר אבן,Shilo Har-Even,1,רס״ן,Major,סדיר,Professional ,Company Commander,1,Brigade 1 Battalion 13,Military ,0,1,1,0,"October 7, 2023",3,Nahal Oz Post ,10,53,10,31.479,34.496,OD
+מתן אברג׳יל,Matan Abargel,1,סמל,Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 13,Military ,0,0,1,0,"October 7, 2023",6,West of Nir Am,6,3,1,31.522,34.567,OD
+ישי פיטוסי,Yishay Fitusi,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 13,Military ,0,0,1,0,"October 7, 2023",3,Nahal Oz Post ,10,53,10,31.479,34.496,OD
+חביב קיעאן,Habib Kiean,1,סמל,Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 13,Military ,0,0,1,0,"October 7, 2023",1,Paga Outpost ,11,13,0,31.451,34.473,OD
+איתי אופק גליסקו,Ofek Glisko,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 13,Military ,0,0,1,0,"October 7, 2023",8,Paga Outpost ,11,13,0,31.451,34.473,OD
+ברק יעקב בן דוד,Barak Ben David,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 13,Military ,0,0,1,0,"October 7, 2023",7,Nahal Oz Post,10,53,10,31.479,34.496,OD
+נאור סיבוני,Naor Siboni,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 13,Military ,0,0,1,0,"October 7, 2023",2,Nahal Oz Post,10,53,10,31.479,34.496,OD
+עידן באלוי,Idan Baloi,1,סרן,Captain ,סדיר,Professional ,ICT Officer,1,Brigade 1 Battalion 13,Military ,0,1,1,0,"October 7, 2023",7,Nahal Oz Post,10,53,10,31.479,34.496,OD
+יוחאי דוכן,Yohai Dukhan,1,סגן,First Lieutenant,סדיר,Professional ,Platoon Commander,1,Brigade 1 Battalion 13,Military ,0,1,1,0,"October 7, 2023",7,Nahal Oz Post,10,53,10,31.479,34.496,OD
+דור ירחי,Dor Yarhi,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 13,Military ,0,0,1,0,"October 7, 2023",3,Nahal Oz Post ,10,53,10,31.479,34.496,OD
+דולב אמויאל,Dolev Amouyal,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 13,Military ,0,0,1,1,"October 7, 2023",13,Paga Outpost ,11,13,0,31.451,34.473,OD
+עידו ביננשטוק,Ido Binenshtock,1,סמל,Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 13,Military ,0,0,1,0,"October 7, 2023",2,Paga Outpost ,11,13,0,31.451,34.473,OD
+דביר זכאי,Dvir Zakai,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 13,Military ,0,0,1,0,"October 7, 2023",2,Nahal Oz Post ,10,53,10,31.479,34.496,OD
+איתמר כהן,Itamar Cohen,1,סמל,Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 13,Military ,0,0,1,0,"October 7, 2023",2,Paga Outpost ,11,13,0,31.451,34.473,OD
+סהר מידאני,Sahar Meidani,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 13,Military ,0,0,1,0,"October 7, 2023",3,Nahal Oz Post,10,53,10,31.479,34.496,OD
+שלו ברנס,Shalev Baranes,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 13,Military ,0,0,1,0,"October 7, 2023",10,Paga Outpost ,11,13,0,31.451,34.473,OD
+רועי ברקת,Roy Bareket,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Squad Commander,1,Brigade 1 Battalion 13,Military ,0,0,1,0,"October 7, 2023",3,Nahal Oz Post ,10,53,10,31.479,34.496,OD
+תומר ברק,Tomer Barak,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 13,Military ,0,0,1,0,"October 7, 2023",1,Paga Outpost ,11,13,0,31.451,34.473,OD
+יעד בן יעקב,Yaad Ben Yacov,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 13,Military ,0,0,1,0,"October 7, 2023",3,Nahal Oz Post,10,53,10,31.479,34.496,OD
+דקל סויסה,Dekel Suissa,1,סרן,Captain ,סדיר,Professional ,Platoon Commander,1,Brigade 1 Battalion 13,Military ,0,1,1,0,"October 7, 2023",5,Paga Outpost ,11,13,0,31.451,34.473,OD
+דניאל משה דנינו,Daniel Moshe Danino,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 13,Military ,0,0,1,0,"October 7, 2023",2,Erez Crossing,7,9,3,31.558,34.544,OD
+יקיר לוי,Yakir Levi,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 13,Military ,0,0,1,0,"October 7, 2023",9,Paga Outpost ,11,13,0,31.451,34.473,OD
+אריאל ארז,Ariel Erez,1,סמל,Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 13,Military ,0,0,1,0,"October 7, 2023",3,Erez Crossing,7,9,3,31.558,34.544,OD
+דוד רתנר,David Ratner,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 13,Military ,0,0,1,0,"October 7, 2023",2,Nahal Oz Post,10,53,10,31.479,34.496,OD
+ליאור עזיזוב,Lior Azizov,1,סמל,Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 13,Military ,0,0,1,0,"October 7, 2023",8,Paga Outpost ,11,13,0,31.451,34.473,OD
+רועי פרי,Roei Peri,1,סמל,Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 13,Military ,0,0,1,0,"October 7, 2023",5,Paga Outpost ,11,13,0,31.451,34.473,OD
+עידן רז,Idan Raz,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 13,Military ,0,0,1,0,"October 7, 2023",8,Paga Outpost ,11,13,0,31.451,34.473,OD
+אדיר טהר,Adir Tahar,1,סמל,Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 13,Military ,0,0,1,0,"October 7, 2023",2,Erez Crossing,7,9,3,31.558,34.544,OD
+עילי בר שדה,Ilay Bar Sadeh,1,סמל,Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 13,Military ,0,0,1,0,"October 7, 2023",2,Yiftach Outpost,10,9,0,31.597,34.494,OD
+רועי וייזר,Roey Weiser,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 13,Military ,0,0,1,0,"October 7, 2023",2,Erez Crossing,7,9,3,31.558,34.544,OD
+ירון זהר,Yaron Zohar,1,סמל,Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 13,Military ,0,0,1,0,"October 7, 2023",5,Nir Oz,5,73,76,31.549,34.565,OD
+נתנאל יאנג,Nathanel Young,1,סמל,Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 13,Military ,0,0,1,0,"October 7, 2023",2,Erez Crossing,7,9,3,31.558,34.544,OD
+אוריאל ביבי,Oriel Bibi,1,רס״ן,Major,סדיר,Professional ,Combat Soldier,1,Brigade 35 Battalion 202,Military ,0,1,1,1,"October 7, 2023",3,Magen ,12,2,0,31.293,34.432,OD
+בנימין לב,Benjamin Loeb,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 35 Battalion 202,Military ,0,0,1,0,"October 7, 2023",7,Kfar Aza,50,93,19,31.483,34.532,OD
+ליאל ויינשטיין,Liel Vainshtein,0,סמל,Sergeant,סדיר,Conscript,Cook,0,Brigade 215,Military ,0,0,0,0,"October 7, 2023",2,Re'eim,28,22,5,31.389,34.455,OD
+אליסף בן פורת,Eliasf Ben Porat,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Cook,0,Brigade 215,Military ,0,0,0,0,"October 7, 2023",1,Mefalsim,6,90,13,31.502,34.561,OD
+נועם סלוטקי,Noam Slotki,1,רס״ם,Command Sergeant Major,מילואים,Reserves,Medic ,1,Brigade 2 Battalion 221,Military ,0,0,1,1,"October 7, 2023",5,Alumim,8.5,62,5,31.452,34.513,OD
+פלג סאלם,Peleg Salem,1,רס״ן,Major,סדיר,Professional ,Logistics,0,Brigade 460,Military ,0,1,1,1,"October 7, 2023",2,Yachini ,10,17,0,31.481,34.598,OD
+סהר ציון מחלוף,Sahar Zion Machlof,1,סא״ל,Lieutenant Colonel,סדיר,Professional ,ICT Battaltion Commnader,1,Division 143 Battaltion 481,Military ,0,1,1,0,"October 7, 2023",3,Re'eim Base,5.5,6,0,31.362,34.449,OD
+נחמן דקל,Nahman Dekel,1,סמל,Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 933 Battalion 50,Military ,0,0,1,0,"October 7, 2023",2,Sufa Outpost ,14,13,0,31.239,34.342,OD
+שגב שוורץ,Segev Schwartz,1,סמל,Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 933 Battalion 50,Military ,0,0,1,0,"October 7, 2023",3,Sufa Outpost ,14,13,0,31.239,34.342,OD
+אמיר לביא,Amir Lavi,1,סמל,Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 933 Battalion 50,Military ,0,0,1,0,"October 7, 2023",2,Sufa Outpost ,14,13,0,31.239,34.342,OD
+טל לוי,Tal Levy,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Squad Commander,1,Brigade 933 Battalion 50,Military ,0,0,1,0,"October 7, 2023",1,Sufa Outpost ,14,13,0,31.239,34.342,OD
+זיו דדו,Ziv Dado,1,רס״ב,Warrant Officer,סדיר,Professional ,Logistics,0,Brigade 1 Battalion 51,Military ,0,0,1,1,"October 7, 2023",3,Mefalsim,6,90,13,31.502,34.561,OD
+שלו דגן,Shalev Dagan,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 51,Military ,0,0,1,0,"October 7, 2023",2,Nir Oz,5,73,76,31.325,34.399,OD
+שלמה רשטניקוב,Shlomo Reshetnikov,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 51,Military ,0,0,1,0,"October 7, 2023",3,MOP,7,4,0,31.269,34.387,OD
+מארו אלם,Maru Alem,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 51,Military ,0,0,1,0,"October 7, 2023",2,Nir Oz,5,73,76,31.325,34.399,OD
+עומר וולף,Omer Wolf,1,סרן,Captain ,סדיר,Professional ,Deputy Comapny Commander ,1,Brigade 1 Battalion 51,Military ,0,1,1,0,"October 7, 2023",3,Nir Oz,5,73,76,31.325,34.399,OD
+דביר חיים רסלר,Dvir Haim Rossler,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 51,Military ,0,0,1,0,"October 7, 2023",3,MOP,7,4,0,31.269,34.387,OD
+עילי נועם בן מוחה,Ilay Noam Ben Muha,1,סמל,Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 51,Military ,0,0,1,0,"October 7, 2023",2,Kissufim Outpost,15,15,0,31.375,34.402,OD
+שילה ראוכברגר,Shilo Rauchberger,1,סרן,Captain ,סדיר,Professional ,Platoon Commander,1,Brigade 1 Battalion 51,Military ,0,1,1,0,"October 7, 2023",2,MOP,7,4,0,31.269,34.387,OD
+אורי מרדכי שני,Ori Mordechay Shani,1,סרן,Captain ,סדיר,Professional ,Platoon Commander,1,Brigade 1 Battalion 51,Military ,0,1,1,0,"October 7, 2023",11,Kissufim Outpost,15,15,0,31.375,34.402,OD
+מיכאל בן חמו,Michael Ben Hamo,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Squad Commander,1,Brigade 1 Battalion 51,Military ,0,0,1,0,"October 7, 2023",2,Kissufim,10,15,1,31.374,34.399,OD
+תומר נגר,Tomer Nagar,1,סמל,Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 51,Military ,0,0,1,0,"October 7, 2023",2,Kissufim Outpost,15,15,0,31.374,34.402,OD
+בר רוזנשטיין,Bar Rozenshtein,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 51,Military ,0,0,1,0,"October 7, 2023",2,Near Road 2424,0,1,0,31.369,34.402,OD
+דוד מיטלמן,David Mittelman,1,סמל,Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 51,Military ,0,0,1,0,"October 7, 2023",2,Kissufim Outpost,15,15,0,31.375,34.402,OD
+אביתר אוחיון,Evyatar Ohayon,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Ambulance Driver ,0,Brigade 1 Battalion 51,Military ,0,0,1,0,"October 7, 2023",2,Kissufim Outpost,15,15,0,31.375,34.402,OD
+אוריאל סגל,Uriel Segal,1,סמל,Sergeant,סדיר,Conscript,Cook,0,Brigade 1 Battalion 51,Military ,0,0,1,0,"October 7, 2023",2,Kissufim Outpost,15,15,0,31.375,34.402,OD
+עדי צור,Adi Tzur,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 51,Military ,0,0,1,0,"October 7, 2023",2,Kissufim,10,15,1,31.374,34.399,OD
+ראם מאיר בטיטו,Reem Meir Betito,1,סמל,Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 51,Military ,0,0,1,0,"October 7, 2023",11,Kissufim Outpost,15,15,0,31.375,34.402,OD
+רז פרץ,Raz Peretz,1,רס״ן,Major,סדיר,Professional ,Administration Comapny Commander,0,Brigade 1 Battalion 51,Military ,0,1,1,0,"October 7, 2023",2,Kissufim Outpost,15,15,0,31.375,34.402,OD
+יוגב אהרן,Yogev Aharon,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 51,Military ,0,0,1,0,"October 7, 2023",2,Kissufim Outpost,15,15,0,31.375,34.402,OD
+בנימין טשגר טקה,Teshager Taka,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 51,Military ,0,0,1,0,"October 7, 2023",2,Kissufim Outpost,15,15,0,31.375,34.402,OD
+עמית צור,Amit Tsur,1,סמל,Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 51,Military ,0,0,1,0,"October 7, 2023",2,Erez Crossing,7,9,3,31.558,34.544,OD
+אורי לוקר,Uri Locker,1,סמל,Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 51,Military ,0,0,1,0,"October 7, 2023",2,Erez Crossing,7,9,3,31.558,34.544,OD
+איתי מאור,Itay Maor,1,סרן,Captain ,סדיר,Professional ,Platoon Commander,1,Brigade 1 Battalion 51,Military ,0,1,1,0,"October 7, 2023",2,Erez Crossing,7,9,3,31.558,34.544,OD
+אופיר ציוני,Ofir Zioni,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Squad Commander,1,Brigade 1 Battalion 51,Military ,0,0,1,0,"October 7, 2023",2,Erez Crossing,7,9,3,31.558,34.5448,OD
+אור אסתו,Or Esatu,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Logistics,0,Brigade 1 Battalion 51,Military ,0,0,1,0,"October 7, 2023",2,Kissufim Outpost,15,15,0,31.375,34.402,OD
+דביר לישה,Dvir Lisha,1,סמל,Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 51,Military ,0,0,1,0,"October 7, 2023",1,Zikim Beach ,0.5,18,0,31.612,34.504,OD
+גיא בזק,Guy Bazak,1,סמל,Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 51,Military ,0,0,1,0,"October 7, 2023",5,Kissufim,10,15,1,31.374,34.399,OD
+עדן נימרי,Eden Nimri,0,סרן,Captain ,סדיר,Professional ,Team Commander,1,Brigade 215 Battalion 5353,Military ,0,1,1,0,"October 7, 2023",2,Nahal Oz Post,10,53,10,31.479,34.496,OD
+אלכסנדר מאסלי ,Alexander Masliy,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Technician ,0,Brigade 401 Battalion 601,Military ,0,0,1,,"October 8, 2023",41,Near Sorek Interchange,0,1,0,31.894,34.831,OD
+נריה בן דוד ,Neria Ben David,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Squad Commander,1,Brigade 7 Battalion 603,Military ,0,0,1,0,"October 8, 2023",17,Be'eri,15,132,30,31.424,34.492,OD
+ישי סלוטקי,Yishay Slotki,1,רס״ר,First Sergeant Major,סדיר,Professional ,Combat Soldier,1,Brigade 9 Battlaion 7006,Military ,0,0,1,1,"October 7, 2023",5,Alumim,8.5,62,5,31.452,34.513,OD
+תומר ליבוביץ,Tomer Leibovitz,1,סמל,Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 7 Battalion 75,Military ,0,0,1,0,"October 7, 2023",3,Nahal Oz Post,10,53,10,31.479,34.496,OD
+שקד דהן,Shaked Dahan,1,סמל,Sergeant,סדיר,Conscript,Combat Soldier ,1,Brigade 7 Battalion 77,Military ,0,0,1,0,"October 7, 2023",1,Nir Oz,5,73,76,31.312,34.381,OD
+יונתן גולן,Yonatan Golan,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Tank Commander ,1,Brigade 7 Battalion 77,Military ,0,0,1,0,"October 7, 2023",4,Nahal Oz Post,10,53,10,31.479,34.496,OD
+אופיר טסטה,Ofir Testa,1,סמל,Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 7 Battalion 77,Military ,0,0,1,0,"October 7, 2023",3,Nova Festival,8,378,44,31.401,34.472,OD
+אוראל משה,Orel Moshe,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Kosher Supervisor ,0,Brigade 7 Battalion 77,Military ,0,0,1,0,"October 7, 2023",8,Yiftach Outpost,10,9,0,31.597,34.494,OD
+אריאל אליהו,Ariel Eliyahu,1,סמל,Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 7 Battalion 77,Military ,0,0,1,0,"October 7, 2023",2,Nirim,7,15,13,,,OD
+יובל בן יעקב,Yoval Ben Yakov,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 7 Battalion 77,Military ,0,0,1,0,"October 7, 2023",2,Yiftach Outpost,10,9,0,31.597,34.494,OD
+נעמה בוני,Naama Bonny,0,רב״ט,Corporal,סדיר,Conscript,HR NCO,0,Brigade 7 Battalion 77,Military ,0,0,1,0,"October 7, 2023",3,Yiftach Outpost,10,9,0,31.597,34.494,OD
+עידו הרוש,Ido Harush,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 7 Battalion 77,Military ,0,0,1,0,"October 7, 2023",2,Yiftach Outpost,10,9,0,31.597,34.494,OD
+יואב מלייב,Yoav Malayev,1,סגן,First Lieutenant,סדיר,Professional ,ICT Officer,1,Brigade 7 Battalion 77,Military ,0,1,1,0,"October 7, 2023",2,Yiftach Outpost,10,9,0,31.597,34.494,OD
+שי לוינסון,Shay Levinson,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 7 Battalion 77,Military ,0,0,1,0,"October 7, 2023",1,Nir Oz,5,73,76,,,OD
+עוז דניאל ,Oz Danirl,1,סמל,Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 7 Battalion 77,Military ,0,0,1,0,"October 7, 2023",2,Nir Oz,5,73,76,31.312,34.381,OD
+דניאל פרץ,Daniel Perez,1,סרן ,Captain ,סדיר,Professional ,Platoon Commander,1,Brigade 7 Battalion 77,Military ,0,1,1,0,"October 7, 2023",3,Nahal Oz Post,10,53,10,31.479,34.496,OD
+איתי חן ,Itay Hen ,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 7 Battalion 77,Military ,0,0,1,0,"October 7, 2023",3,Nahal Oz Post,10,53,10,31.479,34.496,OD
+עומר מקסים נוטרה,Omer Maxim Neutra ,1,,Captain ,,Professional ,Platoon Commander,1,Brigade 7 Battalion 77,Military ,0,1,1,0,"October 7, 2023",2,Nir Oz,5,73,76,31.312,34.381,OD
+סהר טל,Sahar Tal,1,סגן,First Lieutenant,סדיר,Professional ,Intelligence Officer,0,Brigade 7 Battalion 77,Military ,0,1,1,1,"October 7, 2023",7,Yiftach Outpost,10,9,0,31.597,34.494,OD
+אור אביטל,Or Avital,1,סמל,Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 7 Battalion 77,Military ,0,0,1,0,"October 7, 2023",3,Nahal Oz Post,10,53,10,31.479,34.496,OD
+בנימין בנג׳י טרקינסקי ,Benjamin Trakeniski,1,רס״ן,Major,סדיר,Professional ,Operations Officer ,1,Brigade 7 ,Military ,0,1,1,1,"October 8, 2023",18,Be'eri,15,132,30,31.424,34.492,OD
+נוי שוש,Noy Shosh,1,רס״ן,Major,מילואים,Reserves,Ordnance Company Commander,0,Brigade 670 Battalion 8112,Military ,0,1,0,0,"October 7, 2023",9,Be'eri,15,132,30,31.424,34.492,OD
+אריאל אוחנה,Ariel Ohana,1,סמל,Sergeant,סדיר,Reserves,Combat Soldier,1,Brigade 35 Battalion 890,Military ,0,0,1,0,"October 8, 2023",34,Be'eri,15,132,30,31.424,34.492,OD
+ולנטין אלי גנסיה,Valentin Elie Ghnassia,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 35 Battalion 890,Military ,0,0,1,0,"October 7, 2023",12,Be'eri,15,132,30,31.424,34.492,OD
+נדב ביטון,Nadav Biton,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 900 Battalion 90,Military ,0,0,0,0,"October 7, 2023",5,Re'eim,28,22,5,31.411,34.547,OD
+נהוראי סעיד,Nehoray Said,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 900 Battalion 92,Military ,0,0,1,1,"October 7, 2023",2,Ofakim ,20,33,0,31.305,34.617,OD
+טל גרושקה,Tal Grushka,1,רס״ן,Major,סדיר,Professional ,Company Commander,1,Brigade 933 Battalion 931,Military ,0,1,1,0,"October 7, 2023",5,Mefalsim,6,90,13,31.487,34.549,OD
+בנימין גבריאל יונה,Benyamin Gavriel Yona,1,סמל,Sergeant,סדיר,Conscript,Driver,0,Air Force Air Defense,Military ,0,0,1,0,"October 7, 2023",4,Re'eim,28,22,5,31.389,34.458,OD
+נתיב קוצרו,Nativ Kuzaro,1,סמל,Sergeant,סדיר,Conscript,Technician ,0,Air Force Air Defense,Military ,0,0,1,0,"October 7, 2023",4,Re'eim,28,22,5,31.389,34.458,OD
+נתן חי ליאר,Nathane Hai Lyard,1,סמל,Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 900 Battalion 94,Military ,0,0,1,0,"October 7, 2023",7,Kerem Shalom ,6,4,0,31.228,34.284,OD
+רון צרפתי,Ron Zarfati,0,סרן,Captain ,סדיר,Professional ,Security Officer,0,Air Force Air Control ,Military ,0,1,0,0,"October 7, 2023",4,Re'eim ,28,22,5,31.231,34.273,OD
+סהר סעודין,Sahar Saudian,1,סרן,Captain ,סדיר,Professional ,Combat Soldier,1,Air Force Air Defense,Military ,0,1,1,0,"October 7, 2023",4,Re'eim,28,22,5,31.389,34.458,OD
+קארין שוורצמן,Karin Shwarchman,0,סמל,Sergeant,סדיר,Conscript,Technician ,0,Air Force,Military ,0,0,0,0,"October 7, 2023",3,Re'eim,28,22,5,31.389,34.455,OD
+סיון ינין ,Yenin Sivan ,1,רב נגד,Senior non-commissioned Officer,סדיר ,Professional ,Policeman,0,Police Aroar station,Police,0,0,1,0,"October 7, 2023",3,Nova Festival ,8,378,44,31.401,34.472,YH
+שי אל קנפו ,Shai El Knafo ,1,רס״ר,Staff Sergeant Major,סדיר ,Professional ,Policeman,0,Policr Ayarot station ,Police,0,0,1,0,"October 7, 2023",6,Nova Festival ,8,378,44,31.401,34.472,YH
+תומר דולב ,Tomer Dolev,1,רס״ר,First Sergeant Major,מילואים,Reserves,Combat Soldier,1,Homefront Command ,Military ,0,0,1,1,"October 8, 2023",41,Nativ HaAsara ,6,7,0,31.571,34.547,OD
+רוני אשל,Roni Eshel,0,סמל,Sergeant,סדיר,Conscript,Lookout,0,Division 143 Battaltion 414,Military ,0,0,1,0,"October 7, 2023",7,Nahal Oz Post,10,53,10,31.479,34.496,OD
+ים גלס,Yam Glass,0,סמ״ר,Staff Sergeant,סדיר,Conscript,Lookout,0,Division 143 Battaltion 414,Military ,0,0,1,0,"October 7, 2023",7,Nahal Oz Post,10,53,10,31.479,34.496,OD
+עדי לנדמן,Adi Landman,0,סמ״ר,Staff Sergeant,סדיר,Conscript,Lookout,0,Division 143 Battaltion 414,Military ,0,0,1,0,"October 7, 2023",7,Nahal Oz Post,10,53,10,31.479,34.496,OD
+נטע בר עם,Neta Bar Am,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Division 143 Battaltion 414,Military ,0,0,1,0,"October 7, 2023",2,Nahal Oz Post,10,53,10,31.479,34.496,OD
+שחף ניסני,Shachaf Nesani,0,סמ״ר,Staff Sergeant,סדיר,Conscript,Land Intelligence Inspector ,0,Division 143 Battaltion 414,Military ,0,0,1,0,"October 7, 2023",2,Nahal Oz Post ,10,53,10,31.479,34.496,OD
+אמיר איל,Amir Eyal,1,סמל,Sergeant,סדיר,Conscript,Combat Soldier,1,Division 143 Battaltion 414,Military ,0,0,1,0,"October 7, 2023",2,Nahal Oz Post,10,53,10,31.479,34.496,OD
+נועה פרייס,Noa Prais,0,סמ״ר,Staff Sergeant,סדיר,Conscript,Land Intelligence Inspector ,0,Division 143 Battaltion 414,Military ,0,0,1,0,"October 7, 2023",3,Nahal Oz Post ,10,53,10,31.479,34.496,OD
+יעל לייבושור,Yael Leibushor,0,סמל,Sergeant,סדיר,Conscript,Land Intelligence Inspector ,0,Division 143 Battaltion 414,Military ,0,0,1,0,"October 7, 2023",7,Nahal Oz Post,10,53,10,31.479,34.496,OD
+הדר מרים כהן,Hadar Miriam Cohen,0,רב״ט,Corporal,סדיר,Conscript,Land Intelligence Inspector ,0,Division 143 Battaltion 414,Military ,0,0,1,0,"October 7, 2023",3,Nahal Oz Post ,10,53,10,31.479,34.496,OD
+שמעון לוגסי ,Shimon Lugasi,1,סמל,Sergeant,סדיר,Conscript,Combat Soldier,0,Division 143 Battaltion 414,Military ,0,0,1,0,"October 7, 2023",3,Nahal Oz Post,10,53,10,31.479,34.496,OD
+שירת ים עמר,Shirat Yam Amar,0,רב״ט,Corporal,סדיר,Conscript,Land Intelligence Inspector ,0,Division 143 Battaltion 414,Military ,0,0,1,0,"October 7, 2023",2,Nahal Oz Post ,10,53,10,31.479,34.496,OD
+אביב חג׳ג׳,Aviv Hagage,0,סמל,Sergeant,סדיר,Conscript,Land Intelligence Inspector ,0,Division 143 Battaltion 414,Military ,0,0,1,0,"October 7, 2023",2,Nahal Oz Post ,10,53,10,31.479,34.496,OD
+שיר אילת,Shir Eilat,0,סרן,Captain ,סדיר,Professional ,Platoon Commander,0,Division 143 Battaltion 414,Military ,0,1,1,0,"October 7, 2023",7,Nahal Oz Post,10,53,10,31.479,34.496,OD
+שיראל מור,Shirel Mor,0,סמל,Sergeant,סדיר,Conscript,Land Intelligence Inspector ,0,Division 143 Battaltion 414,Military ,0,0,1,0,"October 7, 2023",7,Nahal Oz Post,10,53,10,31.479,34.496,OD
+דניאל שפרבר,Daniel Shperber,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Division 143 Battaltion 414,Military ,0,0,1,0,"October 7, 2023",2,Nahal Oz Post,10,53,10,31.479,34.496,OD
+מיה ויאלובו פולו,Maya Villalobo Polo,0,רב״ט,Corporal,סדיר,Conscript,Land Intelligence Inspector ,0,Division 143 Battaltion 414,Military ,0,0,1,0,"October 7, 2023",7,Nahal Oz Post,10,53,10,31.479,34.496,OD
+שמעון אלרואי בן שטרית,Shimon Alroy Ben Shitrit,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Division 143 Battaltion 414,Military ,0,0,1,0,"October 7, 2023",3,Nahal Oz Post,10,53,10,31.479,34.496,OD
+נועם אברמוביץ,Noam Avramovich,0,רב״ט,Corporal,סדיר,Conscript,Land Intelligence Inspector ,0,Division 143 Battaltion 414,Military ,0,0,1,0,"October 7, 2023",3,Nahal Oz Post ,10,53,10,31.479,34.496,OD
+שי אשרם,Shay Ashram,0,סמל,Sergeant,סדיר,Conscript,Land Intelligence Inspector ,0,Division 143 Battaltion 414,Military ,0,0,1,0,"October 7, 2023",3,Nahal Oz Post ,10,53,10,31.479,34.496,OD
+מקס רבינוב,Max Rabinov,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Division 143 Battaltion 414,Military ,0,0,1,0,"October 7, 2023",2,Erez Crossing,7,9,3,31.5582,34.544839,OD
+שירה שוחט,Shira Shohat,0,סמל,Sergeant,סדיר,Conscript,Lookout,0,Division 143 Battaltion 414,Military ,0,0,1,0,"October 7, 2023",7,Nahal Oz Post,10,53,10,31.479,34.496,OD
+עדי גרומן,Adi Groman,0,סמל,Sergeant,סדיר,Conscript,Combat Soldier,1,Division 143 Battaltion 414,Military ,0,0,1,0,"October 7, 2023",3,Urim Base,3.5,8,0,31.313,34.542,OD
+מליק קרים ,Malik Karim,1,רס״ב,Senior Staff Sergeant Major,סדיר ,Professional ,Policeman,0,Police Be'er Sheba station,Police,0,0,1,0,"October 7, 2023",2,Nova Festival ,8,378,44,31.401,34.472,YH
+מיכאל ליזמי ,Michael Lizmi ,1,רס״ר,Staff Sergeant Major,סדיר ,Professional ,Policeman,0,Police Be'er Sheba station,Police,0,0,1,1,"October 7, 2023",2,Ofakim,20,33,0,31.305,34.617,YH
+אריה קראוניק,Arie Kraunik,1,רס״ם,Command Sergeant Major,מילואים,Reserves,Military Security Coordinator ,1,Alert squad Be'eri ,Emergency Response Team,0,0,1,1,"October 7, 2023",2,Be'eri,15,132,30,31.424,34.492,OD
+חגי אבני,Hagay Avni,1,רס״ם,Command Sergeant Major,מילואים,Reserves,Civil Emergency Team Member,1,Alert squad Be'eri ,Emergency Response Team,0,0,1,1,"October 7, 2023",2,Be'eri,15,132,30,31.424,34.492,OD
+איתן חדד,Eitan Hadad,1,רס״ם,Command Sergeant Major,מילואים,Reserves,Civil Emergency Team Member,1,Alert squad Be'eri ,Emergency Response Team,0,0,1,1,"October 7, 2023",9,Be'eri,15,132,30,31.424,34.492,OD
+אופיר מרדכי ירון ,Ofir Mordechai Yaron,1,רס״ם,Command Sergeant Major,מילואים,Reserves,Civil Emergency Team Member,1,Alert squad Be'eri ,Emergency Response Team,0,0,1,1,"October 7, 2023",5,Nir Oz,5,73,76,31.303,34.431,OD
+שחר צמח,Shachar Zemach,1,רס״ם,Command Sergeant Major,מילואים,Reserves,Civil Emergency Team Member,1,Alert squad Be'eri ,Emergency Response Team,0,0,1,1,"October 7, 2023",9,Be'eri,15,132,30,31.424,34.492,OD
+גיל בויום,Gil Bowom,1,רס״ב,Warrant Officer,מילואים,Reserves,Civil Emergency Team Member,1,Alert squad Be'eri ,Emergency Response Team,0,0,1,1,"October 7, 2023",2,Be'eri,15,132,30,31.424,34.492,OD
+ניסים לוגסי ,Nisim Lugasi ,1,רב פקד,Superintendent,סדיר ,Professional ,Policeman,1,Police Border Police,Police,0,1,1,1,"October 7, 2023",3,Ofakim,20,33,0,31.305,34.617,YH
+רווית חנה אסייג,Ravit Hana Assayag ,0,סמ״ש,Sergeant,סדיר ,Professional ,Policewoman,1,Police Border Police,Police,0,0,1,1,"October 7, 2023",5,Yachini,10,17,0,31.481,34.598,YH
+קים דוקרקר ,Kim Dukarker,0,פקד,Cheif Inspector ,סדיר ,Professional ,Policewoman,1,Police Border Police,Police,0,1,0,0,"October 7, 2023",2,Be'eri ,15,132,30,31.429,34.497,YH
+רומן גנדל ,Roman Gendel ,1,רב נגד,Senior non-commissioned Officer,סדיר ,Professional ,Policeman,1,Police Border Police,Police,0,0,1,1,"October 7, 2023",6,West of Nir Am ,6,3,1,31.522,34.567,YH
+ג׳יאר דוידוב ,Jayar Davidov ,1,ניצב משנה,Commander,סדיר ,Professional ,Policeman,1,Police Border Police,Police,0,1,1,1,"October 7, 2023",4,Re'eim,28,22,5,31.389,34.458,YH
+יהודה קאדר ,Yehuda Kedar ,1,רב נגד,Senior non-commissioned Officer,סדיר ,Professional ,Policeman,1,Police Border Police,Police,0,0,1,1,"October 7, 2023",4,Magen,12,2,0,31.313,34.439,YH
+לידור מקייס,Lidor Makayes,1,רב״ט,Corporal,סדיר,Conscript,Logistics,0,Cogat,Military ,0,0,1,0,"October 7, 2023",2,Erez Crossing,7,9,3,31.5582,34.544839,OD
+אמיל סמוילוב,Emil Samoylov,1,סמל,Sergeant,סדיר,Conscript,Base Security Gaurd ,0,Cogat,Military ,0,0,1,0,"October 7, 2023",2,Erez Crossing,7,9,3,31.5582,34.544839,OD
+אור מלכה,Or Malka,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Soldier,0,Cogat,Military ,0,0,1,0,"October 7, 2023",2,Erez Crossing,7,9,3,31.5582,34.544839,OD
+אלעד מיכאל ששון,Elad Michael Sasson,1,רס״ל,Sergeant Major,סדיר,Professional ,Combat Soldier,1,Brigade 89 Battalion 621,Military ,1,0,1,0,"October 7, 2023",12,Kissufim Outpost,15,15,0,31.375,34.402,OD
+יונתן סביצקי,Yonnatan Savitsky,1,רס״ל,Sergeant Major,סדיר,Professional ,Combat Soldier,1,Brigade 89 Battalion 621,Military ,1,0,1,0,"October 7, 2023",13,Kissufim Outpost,15,15,0,31.375,34.402,OD
+עמית פלד,Amit Peled,1,רס״ל,Sergeant Major,סדיר,Professional ,Combat Soldier,1,Brigade 89 Battalion 621,Military ,1,0,1,0,"October 7, 2023",12,Kissufim Outpost,15,15,0,31.375,34.402,OD
+ויטלי סקיפקביץ׳,Vitaly Skipakevich,1,רס״ל,Sergeant Major,סדיר,Professional ,Combat Soldier,1,Brigade 89 Battalion 621,Military ,1,0,1,0,"October 7, 2023",10,Kissufim,10,15,1,31.374167,34.399444,OD
+איתי יהודה באוסי,Itay Yehudah Bausi,1,רס״ל,Sergeant Major,סדיר,Professional ,Combat Soldier,1,Brigade 89 Battalion 217,Military ,1,0,0,1,"October 7, 2023",3,Nova Festival,8,378,44,31.401,34.472,OD
+בן ברונשטיין,Ben Bronshtein,1,רס״ן,Major,סדיר,Professional ,Combat Soldier,1,Brigade 89 Battalion 217,Military ,1,1,1,1,"October 7, 2023",5,Kfar Aza,50,93,19,31.483416,34.532291,OD
+יוסף מלאכי גדליה,Josheph Malachi Guedalia,1,רס״ל,Sergeant Major,מילואים,Reserves,Combat Soldier,1,Brigade 89 Battalion 217,Military ,1,0,1,1,"October 7, 2023",5,Kfar Aza,50,93,19,31.483416,34.532291,OD
+עמרי מיכאלי,Omri Michaeli,1,רס״ם,Command Sergeant Major,מילואים,Reserves,Combat Soldier,1,Brigade 89 Battalion 217,Military ,1,0,1,1,"October 7, 2023",5,Kfar Aza,50,93,19,31.483416,34.532291,OD
+אור יוסף רן,Or Yossef Ran,1,רס״ן,Major,סדיר,Professional ,Team Commander,1,Brigade 89 Battalion 217,Military ,1,1,1,1,"October 7, 2023",5,Kfar Aza,50,93,19,31.483416,34.532291,OD
+אמיר פישר,Amir Fisher,1,רס״ל,Sergeant Major,סדיר,Professional ,Combat Soldier,1,Brigade 89 Battalion 217,Military ,1,0,1,0,"October 7, 2023",5,Kfar Aza,50,93,19,31.483416,34.532291,OD
+איליי עדני,Elay Adany,1,סרן,Captain ,סדיר,Professional ,Platoon Commander,1,Brigade 89 Battalion 212,Military ,1,1,1,0,"October 7, 2023",9,Kfar Aza,50,93,19,31.483416,34.532291,OD
+עמיחי יעקב ונינו,Amichay Yaacov Vanino,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Squad Commander,1,Brigade 89 Battalion 212,Military ,1,0,1,0,"October 7, 2023",9,Kfar Aza,50,93,19,31.483416,34.532291,OD
+עמית גואטה,Amit Guetta,1,סמל,Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 89 Battalion 212,Military ,1,0,1,1,"October 7, 2023",3,Sha'ar HaNegev Junction,24,25,0,31.508,34.585,OD
+אפיק רוזנטל,Afik Rosenthal,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 89 Battalion 212,Military ,1,0,1,1,"October 7, 2023",7,Nahal Oz,10.5,19,8,31.471,34.513,OD
+יפתח יעבץ,Yiftah Yavetz,1,סרן,Captain ,סדיר,Professional ,Intelligence Officer,1,Brigade 89 Battalion 212,Military ,1,1,1,1,"October 7, 2023",7,Nahal Oz,10.5,19,8,31.471,34.513,OD
+חן בוכריס,Chen Bouchris,1,רס״ן,Major,סדיר,Professional ,Deputy Comapny Commander ,1,Brigade 89 Battalion 212,Military ,1,1,1,1,"October 7, 2023",7,Nahal Oz,10.5,19,8,31.471,34.513,OD
+עמרי בלקין,Omri Belkin,1,רס״ר,First Sergeant Major,מילואים,Reserves,Instructor ,1,Counterterrorism School ,Military ,1,0,1,1,"October 7, 2023",16,Be'eri,15,132,30,31.424,34.492,OD
+רועי נגרי,Roee Negri,1,רס״ן,Major,מילואים,Professional ,Team Commander,1,Counterterrorism School ,Military ,1,1,1,1,"October 7, 2023",18,Be'eri,15,132,30,31.424,34.492,OD
+בן רובינשטיין,Ben Rubinshtain,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Instructor ,1,Counterterrorism School ,Military ,1,0,1,0,"October 7, 2023",2,Sderot,9,53,0,31.522,34.596,OD
+שגיא גולן ,Sagi Golan,1,רס״ן,Major,סדיר,Professional ,Intelligence Officer,0,Counterterrorism School ,Military ,1,1,1,1,"October 8, 2023",22,Be'eri,15,132,30,31.424,34.492,OD
+אלי גינסברג ,Eli Ginsberg,1,סא״ל,Lieutenant Colonel,סדיר ,Professional ,School Commander,1,Counterterrorism School ,Military ,1,1,1,1,"October 8, 2023",16,Be'eri,15,132,30,31.424,34.492,OD
+עידן ברוך,Edan Barukh,1,רב״ט,Corporal,סדיר,Conscript,Education NCO,0,Education School ,Military ,0,0,0,0,"October 7, 2023",7,Be'eri,15,132,30,31.424,34.492,OD
+רם נגבי,Ram Negbi,1,ֿרס״ן,Major,מילואים,Reserves,Military Security Coordinator,1,Alert squad Ein HaShlosa,Emergency Response Team,0,1,1,1,"October 7, 2023",2,Ein HaShlosha ,0,4,0,31.352,34.403,OD
+אמיר נעים,Amir Naim,1,רס״ן,Major,מילואים,Reserves,Civil Emergency Team Member,1,Alert squad Erez,Emergency Response Team,0,1,1,1,"October 7, 2023",2,Erez Crossing,7,9,3,31.554,34.571,OD
+שחף ברגשטיין,Shahaf Bergsten,1,רס״ם,Command Sergeant Major,מילואים,Reserves,Combat Soldier,1,Brigade 6 Battalion 6408,Military ,0,0,0,0,"October 7, 2023",3,Kfar Aza,50,93,19,31.483416,34.532291,OD
+אברהם נריה כהן,Avraham Nerya Cohen,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Soldier,0,Division 143,Military ,0,0,0,0,"October 7, 2023",2,Nova Festival,8,378,44,31.381,34.447,OD
+אושר שמעיה,Osher Chemaya,1,סמל,Sergeant,סדיר,Conscript,Soldier,0,Division 143,Military ,0,0,1,1,"October 7, 2023",2,Re'eim Base,5.5,6,0,31.362,34.449,OD
+עילי עזר,Ilay Azar,1,רב״ט,Corporal,סדיר,Conscript,Soldier,0,Division 143,Military ,0,0,1,0,"October 7, 2023",3,Re'eim Base,5.5,6,0,31.362,34.449,OD
+שיראל חיים פור,Shirel Haim Pour,0,סמ״ר,Staff Sergeant,סדיר,Conscript,Operations Room Operator ,0,Division 143 Brigade 7643,Military ,0,0,1,0,"October 7, 2023",7,Nahal Oz Post,10,53,10,31.479,34.496,OD
+איברהים ח׳רובה,Ibrahim Kharuba,1,רס״ב,Warrant Officer,סדיר,Professional ,Tracker,1,Division 143 Brigade 7643,Military ,0,0,1,0,"October 7, 2023",6,Nahal Oz Post,10,53,10,31.479,34.496,OD
+אושר שמחה ברזילי,Osher Simha Barzilay,0,סמל,Sergeant,סדיר,Conscript,Operations Room Operator ,0,Division 143 Brigade 7643,Military ,0,0,1,0,"October 7, 2023",7,Nahal Oz Post,10,53,10,31.479,34.496,OD
+בועז מנשה יוגב,Boaz Menache Yoggev,1,סמל,Sergeant,סדיר,Conscript,Technician ,0,Division 143 Brigade 7643,Military ,0,0,1,0,"October 7, 2023",6,Nahal Oz Post ,10,53,10,31.479,34.496,OD
+ירין מארי פלד,Yarin Mari Peled,0,סמ״ר,Staff Sergeant,סדיר,Conscript,Medic ,0,Division 143 Brigade 7643,Military ,0,0,1,0,"October 7, 2023",3,Nahal Oz Post,10,53,10,31.479,34.496,OD
+שיר ביטון,Shir Biton,0,סמל,Sergeant,סדיר,Conscript,Medic ,0,Division 143 Brigade 7643,Military ,0,0,1,0,"October 7, 2023",3,Nahal Oz Post,10,53,10,31.479,34.496,OD
+סיון שמחה אסראף,Sivan Simha Asraf,0,סמ״ר,Staff Sergeant,סדיר,Conscript,ICT,1,Division 143 Brigade 7643,Military ,0,0,1,0,"October 7, 2023",1,Nahal Oz Post,10,53,10,31.479,34.496,OD
+מחמד אלאטרש,Mhamad El Atrash,1,רס״ם ,Command Sergeant Major,סדיר,Professional ,Tracker,1,Division 143 Brigade 7643,Military ,0,0,1,0,"October 7, 2023",2,Nahal Oz Post,10,53,10,31.479,34.496,OD
+אסף חממי,Asaf Hamami,1,אל״מ,Colonel ,סדיר,Professional ,Brigade Commander,1,Division 143 Brigade 6643,Military ,0,1,1,0,"October 7, 2023",1,Nirim,7,15,13,31.335,34.394,OD
+קיריל ברודסקי,Kiril Brodski,1,סמל,Sergeant,סדיר,Conscript,Brigade Commander Team,1,Division 143 Brigade 6643,Military ,0,0,1,0,"October 7, 2023",2,Nirim,7,15,13,31.335,34.394,OD
+תומר יעקב אחימס ,Tomer Yaakov Ahimas,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Brigade Commander Team,1,Division 143 Brigade 6643,Military ,0,0,1,0,"October 7, 2023",2,Nirim,7,15,13,31.335,34.394,OD
+בנימין בלאי,Benyamin Belay,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Driver,1,Division 143 Brigade 6643,Military ,0,0,1,0,"October 7, 2023",2,Kissufim Outpost,15,15,0,31.375,34.402,OD
+ברנדו דוד פלורס גרסיה,Brando David Flores Garcia,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Driver,1,Division 143 Brigade 6643,Military ,0,0,1,0,"October 7, 2023",2,Kissufim Outpost,15,15,0,31.375,34.402,OD
+סלמאן אבן מרעי,Salman Eben Marei,1,רס״ם,Command Sergeant Major,סדיר,Professional ,Tracker,1,Division 143 Brigade 6643,Military ,0,0,1,0,"October 7, 2023",,Sufa Outpost ,14,13,0,31.239,34.342,OD
+ניתאי עמאר,Nitay Amar,1,סרן,Captain ,סדיר,Professional ,Engineering Officer,1,Division 143 Brigade 6643,Military ,0,1,1,1,"October 7, 2023",8,Nova Festival,8,378,44,31.381,34.447,OD
+שוהם בר,Shoham Bar,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Logistics,0,Brigade 1,Military ,0,0,0,0,"October 7, 2023",2,Re'eim,28,22,5,31.389,34.455,OD
+רואי חיים גורי,Roi Haim Guri,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 1 Battalion 631,Military ,0,0,0,1,"October 7, 2023",1,Ofakim ,20,33,0,31.305,34.617,OD
+מרדכי שמיר,Mordechay Shamir,1,רס״ן,Major,סדיר,Professional ,Combat Officer,1,Brigade 1 Battalion 631,Military ,0,1,1,1,"October 7, 2023",8,Re'eim ,28,22,5,31.385,34.458,OD
+אברהם גבריאל קורין,Abraham Gabriel Korin,1,רס״ם,Command Sergeant Major,מילואים,Reserves,Military Security Coordinator,1,Alert squad Holit,Emergency Response Team,0,0,1,1,"October 7, 2023",2,Holit,7,17,6,31.231,34.325,OD
+חיים ישורון כצמן,Hayim Yeshurun Katsman,1,רס״ר,First Sergeant Major,מילואים,Reserves,Civil Emergency Team Member,1,Alert squad Holit,Emergency Response Team,0,0,1,1,"October 7, 2023",7,Holit,7,17,6,31.231,34.325,OD
+אופיר דוידיאן,Ofir Davidiyan,0,רב״ט,Corporal,סדיר,Conscript,Logistics,0,Homefront Command ,Military ,0,0,1,0,"October 7, 2023",5,Urim Base,3.5,8,0,31.313,34.542,OD
+אדיר עבודי,Adir Abudi,1,רס״ן,Major,סדיר,Professional ,Company Commander,1,Homefront Command School,Military ,0,1,1,0,"October 7, 2023",3,Zikim Base,7.5,7,0,31.603,34.509,OD
+אדר בן סימון,Adar Ben Simon,0,סגן,First Lieutenant,סדיר,Professional ,Platoon Commander,1,Homefront Command School,Military ,0,1,1,0,"October 7, 2023",2,Zikim Base,7.5,7,0,31.603,34.509,OD
+ינאי קמינקא,Yannai Kaminka,1,סגן,First Lieutenant,סדיר,Professional ,Platoon Commander,1,Homefront Command School,Military ,0,1,1,0,"October 7, 2023",3,Zikim Base,7.5,7,0,31.603,34.509,OD
+אור מוזס,Or Moses,0,סרן,Captain ,סדיר,Professional ,Deputy Comapny Commander ,1,Homefront Command School,Military ,0,1,1,0,"October 7, 2023",3,Zikim Base,7.5,7,0,31.603,34.509,OD
+עומרי ניב פיירשטיין,Omri Niv Firshtein,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Homefront Command School,Military ,0,0,1,0,"October 7, 2023",3,Zikim Base,7.5,7,0,31.603,34.509,OD
+עדן אלון לוי,Eden Alon Levy,0,סמ״ר,Staff Sergeant,סדיר,Conscript,Squad Commander,1,Homefront Command School,Military ,0,0,1,0,"October 7, 2023",3,Zikim Base,7.5,7,0,31.603,34.509,OD
+נריה אהרון נגרי,Neria Aaron Nagari,1,רב״ט,Corporal,סדיר,Conscript,Combat Soldier,1,Homefront Command School,Military ,0,0,1,0,"October 7, 2023",2,Zikim Base,7.5,7,0,31.603,34.509,OD
+רותם קוץ,Rotem Kutz,0,סמל,Sergeant,סדיר,Conscript,Recruits Squad Commander,1,Counterterrorism School ,Military ,0,0,0,0,"October 7, 2023",1,Kfar Aza,50,93,19,31.483416,34.532291,OD
+ים גולדשטיין אלמוג,Yam Almog Goldstein,0,סמ״ר,Staff Sergeant,סדיר,Conscript,Recruits Squad Commander,1,Counterterrorism School ,Military ,0,0,0,0,"October 7, 2023",6,Kfar Aza,50,93,19,31.483416,34.532291,OD
+עמרי פרץ,Omri Perez,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Squad Commander,1,Brigade 828 Battalion 450,Military ,0,0,1,0,"October 7, 2023",9,Kissufim,10,15,1,31.374167,34.399444,OD
+אדם אגמון,Adam Agmon,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Squad Commander,1,Brigade 828 Battalion 450,Military ,0,0,1,0,"October 7, 2023",10,Kissufim,10,15,1,31.374167,34.399444,OD
+גיא אדמוני,Guy Admoni,1,סרן,Captain ,סדיר,Professional ,Intelligence Officer,0,Intelligence ,Military ,0,1,0,0,"October 7, 2023",2,Kfar Aza,50,93,19,31.483416,34.532291,OD
+אהרון ארתור מרקוביצי,Aharon Arthur Marcovichi ,1,רס״מ,Advanced Staff Sergeant Major,סדיר ,Professional ,Logistical Support ,0,Police,Police,0,0,1,0,"October 7, 2023",3,Nova Festival ,8,378,44,31.401,34.472,YH
+יגאל אילוז,Yigal Iluz ,1,רב נגד,Senior non-commissioned Officer,סדיר ,Professional ,Policeman,0,Police,Police,0,0,1,0,"October 7, 2023",2,Ofakim,20,33,0,31.305,34.617,YH
+ליאון בר (בן מוחה),Lion Bar,1,אל״מ,Colonel ,מילואים,Reserves,Intelligence Officer,1,Division 877 ,Military ,0,1,1,1,"October 8, 2023",31,Mefalsim,6,90,13,31.507,34.553,OD
+אלחנן מאיר קלמנזון ,Elhanan Meir Kalmanson,1,סרן ,Captain ,מילואים,Reserves,Intelligence Officer,1,Division 877 ,Military ,0,1,1,1,"October 8, 2023",28,Be'eri,15,132,30,31.424,34.492,OD
+אברהם חובלאשוילי,Avraham Hovelashvili,1,רס״ן,Major,סדיר,Professional ,Deputy Battalion Commander,1,Brigade 512 Battalion 33,Military ,0,1,1,1,"October 7, 2023",4,Nova Festival,8,378,44,31.401,34.472,OD
+ידידיה משה רזיאל,Moshe Yedidya Raziel,1,רס״ר,First Sergeant Major,מילואים,Reserves,Civil Emergency Team Member,1,Alert squad Kerem Shalom ,Emergency Response Team,0,0,1,1,"October 7, 2023",5,Kerem Shalom ,6,4,0,31.228,34.284,OD
+ישראל עמיחי ויצן,Israel Amichay Vitzen,1,רס״ר,First Sergeant Major,מילואים,Reserves,Civil Emergency Team Member,1,Alert squad Kerem Shalom ,Emergency Response Team,0,0,1,1,"October 7, 2023",5,Kerem Shalom ,6,4,0,31.228,34.284,OD
+אופיר ליבשטין,Ofir Libstein,1,רס״ר,First Sergeant Major,מילואים,Reserves,Civil Emergency Team Member,1, Alert squad Kfar Aza,Emergency Response Team,0,0,1,1,"October 7, 2023",3,Kfar Aza,50,93,19,31.483416,34.532291,OD
+טל אילון,Tal Eilon,1,רס״ם,Command Sergeant Major,מילואים,Reserves,Civil Emergency Team Member,1,Alert squad Kfar Aza,Emergency Response Team,0,0,1,1,"October 7, 2023",3,Kfar Aza,50,93,19,31.483416,34.532291,OD
+נדב עמיקם,Nadav Amikam,1,רס״ם,Command Sergeant Major,מילואים,Reserves,Civil Emergency Team Member,1,Alert squad Kfar Aza,Emergency Response Team,0,0,1,1,"October 7, 2023",3,Kfar Aza,50,93,19,31.483416,34.532291,OD
+אורי שמעון רוסו,Uri Shimon Russo,1,רס״ן,Major,מילואים,Reserves,Civil Emergency Team Member,1,Alert squad Kfar Aza,Emergency Response Team,0,1,1,1,"October 7, 2023",3,Kfar Aza,50,93,19,31.483416,34.532291,OD
+שחר אביאני,Shachar Aviani,1,רס״ם,Command Sergeant Major,מילואים,Reserves,Military Security Coordinator,1,Alert squad Kfar Aza,Emergency Response Team,0,0,1,1,"October 7, 2023",3,Kfar Aza,50,93,19,31.483416,34.532291,OD
+אביב ברעם,Aviv Baram,1,רס״ם,Command Sergeant Major,מילואים,Reserves,Civil Emergency Team Member,1,Alert squad Kfar Aza,Emergency Response Team,0,0,1,1,"October 7, 2023",3,Kfar Aza,50,93,19,31.483416,34.532291,OD
+אברהם חננאל הנדי,Avraham Hananel Hindi,1,סרן,Captain ,מילואים,Reserves,Deputy Military Security Coordinator,1,Alert squad Kfar Aza,Emergency Response Team,0,1,1,1,"October 7, 2023",3,Kfar Aza,50,93,19,31.483416,34.532291,OD
+סער מרגוליס,Saar Margolis,1,רס״ם,Command Sergeant Major,מילואים,Reserves,Civil Emergency Team Member,1,Alert squad Kissufim,Emergency Response Team,0,0,1,1,"October 7, 2023",10,Kissufim,10,15,1,31.374167,34.399444,OD
+אביעד רבלין,Aviad Revlin,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Soldier,0,Land Technology Brigade ,Military ,0,0,0,0,"October 7, 2023",3,Nova Festival,8,378,44,31.401,34.472,OD
+יפתח גורני,Iftach Gorny,1,סרן,Captain ,מילואים,Reserves,Combat Soldier,1,Counterterrorism Nizana,Military ,1,1,1,1,"October 7, 2023",5,Between Yated and Amitai ,6,1,0,31.216,34.329,OD
+לירן מונס אלמוסנינו,Liran Mones Almosnino,1,רס״ם,Command Sergeant Major,מילואים,Reserves,Combat Soldier,1,Counterterrorism Nizana,Military ,1,0,1,1,"October 7, 2023",7,Holit,7,17,6,31.231,34.325,OD
+אברהם פליישר,Avraham Fleisher,1,רנ״ג,Senior Non-Commissioned Officer,מילואים,Reserves,Civil Emergency Team Member,1,Alert squad Magen,Emergency Response Team,0,0,1,1,"October 7, 2023",3,Magen,12,2,0,31.297,34.427,OD
+עילי זיסר,Ilay Zisser,1,רס״ן,Major,סדיר,Professional ,Combat Soldier,1,Matkal,Military ,1,1,1,1,"October 7, 2023",5,Kfar Aza,50,93,19,31.483416,34.532291,OD
+אמיר צור,Amir Zur,1,סרן,Captain ,סדיר,Professional ,Combat Soldier,1,Matkal,Military ,1,1,1,1,"October 7, 2023",5,Kfar Aza,50,93,19,31.483416,34.532291,OD
+טל כהן,Tal Cohen,1,רס״ן,Major,סדיר,Professional ,Combat Soldier,1,Matkal,Military ,1,1,1,1,"October 7, 2023",5,Kfar Aza,50,93,19,31.483416,34.532291,OD
+הדר קמה,Hadar Kama,1,סרן,Captain ,סדיר,Professional ,Combat Soldier,1,Matkal,Military ,1,1,1,1,"October 7, 2023",5,Kfar Aza,50,93,19,31.483416,34.532291,OD
+דוד חיים מאיר,David Haim Meir,1,רס״ן,Major,מילואים,Reserves,Combat Soldier,1,Matkal,Military ,1,1,1,1,"October 7, 2023",13,Be'eri,15,132,30,31.424,34.492,OD
+נוה אלעזר לקס,Nave Elazar Lax,1,סגן,First Lieutenant,סדיר,Professional ,Combat Soldier,1,Matkal,Military ,1,1,1,1,"October 7, 2023",10,Be'eri,15,132,30,31.424,34.492,OD
+אריאל בן משה,Ariel ben moshe,1,רס״ן,Major,סדיר,Professional ,Company Commander,1,Matkal,Military ,1,1,1,1,"October 7, 2023",15,Re'eim ,28,22,5,31.385,34.458,OD
+אמיר סקורי,Amir Skoury,1,רס״ן,Major,סדיר,Professional ,Combat Soldier,1,Matkal,Military ,1,1,1,1,"October 7, 2023",8,Be'eri,15,132,30,31.424,34.492,OD
+אדיר גאורי,Adir Gaory,1,סגן,First Lieutenant,סדיר,Professional ,Combat Soldier,1,Matkal,Military ,1,1,1,1,"October 7, 2023",15,Re'eim ,28,22,5,31.385,34.458,OD
+ודים בליך ,Vadim Blich ,1,סגן ניצב ,Cheif Superintendent ,סדיר ,Professional ,Policeman,1,Police Matpa,Police,0,1,1,1,"October 7, 2023",9,Be'eri,15,132,30,31.424,34.492,YH
+אלירן אברג׳יל ,Eliran Abargil ,1,רס״ר ,Staff Sergeant Major,סדיר ,Professional ,Policeman,1,Police Matpa,Police,0,0,1,1,"October 7, 2023",9,Be'eri,15,132,30,31.424,34.492,YH
+דן גנות ,Dan Ganot ,1,רב פקד,Superintendent,סדיר ,Professional ,Policeman,1,Police Matpa,Police,0,1,1,1,"October 7, 2023",9,Be'eri,15,132,30,31.424,34.492,YH
+בוריס דנילוב ,Boris Danilov ,1,רס״מ,Advanced Staff Sergeant Major,סדיר ,Professional ,Policeman,1,Police Matpa,Police,0,0,1,1,"October 7, 2023",9,Be'eri,15,132,30,31.424,34.492,YH
+גדיף מולוגוטה,Gadif Mologota ,1,סמ״ר ,Staff Sergeant,סדיר ,Professional ,Policeman,1,Police Matpa,Police,0,0,1,1,"October 7, 2023",9,Be'eri,15,132,30,31.424,34.492,YH
+דור מנגדי ,Dor Mangadi ,1,רב סמל,Sergeant Major,סדיר ,Professional ,Policeman,1,Police Matpa,Police,0,0,1,1,"October 7, 2023",9,Be'eri,15,132,30,31.424,34.492,YH
+שלום אוראל אלון , Shalom Orel Alon ,1,רב סמל,Sergeant Major,סדיר ,Professional ,Policeman,1,Police Matpa,Police,0,0,1,1,"October 7, 2023",9,Be'eri,15,132,30,31.424,34.492,YH
+מרטין קוזמיצקס ,Martin Kuzmickas ,1,סגן ניצב ,Cheif Superintendent ,סדיר ,Professional ,Policeman,1,Police Matpa,Police,0,1,1,1,"October 7, 2023",2,Sderot,9,53,0,31.522,34.596,YH
+אופיר שושני,Ofir Shoshani,0,סמ״ר,Staff Sergeant,סדיר,Conscript,Recruits Squad Commander,0,Intelligence School ,Military ,0,0,0,0,"October 7, 2023",6,Kfar Aza,50,93,19,31.483416,34.532291,OD
+דן אסולין,Dan Assulin,1,רס״ר,First Sergeant Major,מילואים,Reserves,Military Security Coordinator,1,Alert squad Mivtachim,Emergency Response Team,0,0,1,1,"October 7, 2023",3,Mivtachim,8.5,5,0,31.242,34.407,OD
+טל ממן,Tal Maman,1,רס״ם,Command Sergeant Major,מילואים,Reserves,Civil Emergency Team Member,1,Alert squad Mivtachim,Emergency Response Team,0,0,1,1,"October 7, 2023",3,Mivtachim,8.5,5,0,31.242,34.407,OD
+דניאל קסבצ׳וק,Daniel Kasvachuk,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Technician ,0,Brigade 214 Battalion Moran ,Military ,0,0,0,0,"October 7, 2023",,Magen,12,2,0,31.385,34.634,OD
+יהונתן אהרן שטיינברג,Yehonatan Steinberg,1,אל״מ,Colonel ,סדיר,Professional ,Brigade Commander,1,Brigade 933,Military ,0,1,1,1,"October 7, 2023",3,Magen,12,2,0,31.312,34.454,OD
+דניאל בזגודוב,Daniel Bezgodov,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 933 Battalion 934,Military ,0,0,1,0,"October 7, 2023",2,Sufa Outpost ,14,13,0,31.239,34.342,OD
+ענר אליקים שפירא,Aner Elyakim Shapiro,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 933 Battalion 934,Military ,0,0,0,1,"October 7, 2023",3,Re'eim,28,22,5,31.389,34.455,OD
+גלי רועי שקותאי,Gali Roy Shakotai,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 933 Battalion 934,Military ,0,0,1,0,"October 7, 2023",2,Sufa Outpost ,14,13,0,31.239,34.342,OD
+אור מזרחי,Or Mizrahi,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 933 Battalion 934,Military ,0,0,1,0,"October 7, 2023",9,Erez Crossing ,7,9,3,31.5582,34.544839,OD
+תומר יעקב מזרחי,Tomer Yaakov Mizrahi,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 933 Battalion 934,Military ,0,0,1,0,"October 7, 2023",2,Sufa Outpost ,14,13,0,31.239,34.342,OD
+אופיר מלמן,Ofir Melman,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 933 Battalion 934,Military ,0,0,1,0,"October 7, 2023",2,Sufa Outpost ,14,13,0,31.239,34.342,OD
+עמית מוסט,Amit Most,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 933 Battalion 934,Military ,0,0,1,0,"October 7, 2023",2,Sufa Outpost ,14,13,0,31.239,34.342,OD
+עידו ישראל שני,Israel Shani,1,רס״ן,Major,סדיר,Professional ,Deputy Comapny Commander ,1,Brigade 933 Battalion 934,Military ,0,1,1,0,"October 7, 2023",2,Sufa,11.5,3,0,31.234,34.334,OD
+הלל שמואל סעדון,Hallel Shmuel Saadon,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 933 Battalion 934,Military ,0,0,1,0,"October 7, 2023",2,Sufa Outpost ,14,13,0,31.239,34.342,OD
+רועי צ׳אפל,Roey Chapell,1,רס״ן,Major,סדיר,Professional ,Company Commander,1,Brigade 933 Battalion 934,Military ,0,1,1,0,"October 7, 2023",2,Sufa Outpost ,14,13,0,31.239,34.342,OD
+ירון אורי שי,Yaron Oree Shay,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 933 Battalion 934,Military ,0,0,1,0,"October 7, 2023",2,Kerem Shalom ,6,4,0,31.228,34.284,OD
+אור מזרחי,Or Mizrachi,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Division 143 Battaltion 414,Military ,0,0,1,0,"October 7, 2023",2,Kerem Shalom Post,6,4,0,31.209,34.291,OD
+יהונתן צור,Yehonatan Tzor,1,סא״ל,Lieutenant Colonel,סדיר,Professional ,Battalion Commander ,1,Brigade 933 Battalion 934,Military ,0,1,1,1,"October 7, 2023",3,Magen,12,2,0,31.312,34.454,OD
+אילן פיורנטינו,Ilan Fiorentino,1,רס״ם,Command Sergeant Major,מילואים,Reserves,Military Security Coordinator,1,Alert squad Nahal Oz,Emergency Response Team,0,0,1,1,"October 7, 2023",2,Nahal Oz,10.5,19,8,31.472,34.497,OD
+רן פוסלושני,Ran Poslushni,1,רס״ם,Command Sergeant Major,מילואים,Reserves,Civil Emergency Team Member,1,Alert squad Nahal Oz,Emergency Response Team,0,0,1,1,"October 7, 2023",10,Nahal Oz,10.5,19,8,31.472,34.497,OD
+אורן שטרן,Oren Stern,1,רס״ן,Major,מילואים,Reserves,Civil Emergency Team Member,1,Alert squad Native HaAsara,Emergency Response Team,0,1,1,1,"October 7, 2023",1,Nativ HaAsara ,6,7,0,31.572,34.539,OD
+עמית וקס,Amit Vax,1,רס״ב,Warrant Officer,מילואים,Reserves,Civil Emergency Team Member,1,Alert squad Native HaAsara,Emergency Response Team,0,0,1,1,"October 7, 2023",3,Nativ HaAsara ,6,7,0,31.572,34.539,OD
+עדי בהרב רבינוביץ,Adi Baharav Rabinovitz,1,סרן,Captain ,מילואים,Reserves,Civil Emergency Team Member,1,Alert squad Native HaAsara,Emergency Response Team,0,1,1,1,"October 7, 2023",3,Nativ HaAsara ,6,7,0,31.572,34.539,OD
+אליאור יפרח ,Elior Yifrach ,1,רס״מ,Advanced Staff Sergeant Major,סדיר ,Professional ,Policeman,0,Police Negev Central,Police,0,0,1,0,"October 7, 2023",4,Nova Festival ,8,378,44,31.401,34.472,YH
+בועז אברהם,Boaz Abraham,1,רס״ם,Command Sergeant Major,מילואים,Reserves,Civil Emergency Team Member,1,Alert squad Nir Itzhak,Emergency Response Team,0,0,1,1,"October 7, 2023",3,Nir Itzhak,6.5,6,8,31.235,34.356,OD
+ירון ויקטור שחר,Yaron Victor Shahar,1,רס״ר,First Sergeant Major,מילואים,Reserves,Military Security Coordinator,1,Alert squad Nir Itzhak,Emergency Response Team,0,0,1,1,"October 7, 2023",4,Nir Itzhak,6.5,6,8,31.235,34.356,OD
+אופק ארזי,Ofek Arazi,1,רס״ל,Sergeant Major,מילואים,Reserves,Civil Emergency Team Member,1,Alert squad Nir Itzhak,Emergency Response Team,0,0,1,1,"October 7, 2023",2,Nir Itzhak,6.5,6,8,31.235,34.356,OD
+רביד אריה כץ,Ravid Aryeh Katz ,1,רס״ם ,Command Sergeant Major,מילואים,Reserves,Civil Emergency Team Member,1,Alert squad Nir Oz,Emergency Response Team,0,0,1,1,"October 7, 2023",4,Nir Oz,5,73,76,31.309,34.402,OD
+אורן גולדין ,Oren Goldin Katz,1,רס״ר,First Sergeant Major,מילואים,Reserves,Civil Emergency Team Member,1,Alert squad Nir Itzhak,Emergency Response Team,0,0,1,1,"October 7, 2023",2,Nir Itzhak,6.5,6,8,31.235,34.356,OD
+שרון ליבוביץ ,Sharon Leibovitz,1,רס״מ,Advanced Staff Sergeant Major,סדיר ,Professional ,Policeman,0,Police Ofakim station,Police,0,0,1,0,"October 7, 2023",3,Nova Festival ,8,378,44,31.401,34.472,YH
+אריה שלמה צירינג,Aryeh Shlomo Ziering,1,רס״ן,Major,סדיר,Professional ,Company Commander,1,Oketz,Military ,1,1,1,1,"October 7, 2023",,Yiftach Outpost,10,9,0,31.597,34.494,OD
+רותם דושי,Rotem Dushi,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 35,Military ,0,0,1,1,"October 7, 2023",5,Kfar Aza,50,93,19,31.483416,34.532291,OD
+איתי אליהו מרציאנו,Itay-Eliyahu Marchiano,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Sargent ,1,Brigade 35,Military ,0,0,1,1,"October 7, 2023",7,Nativ HaAsara ,6,7,0,31.576,34.553,OD
+גיא שמחי,Guy Simhi,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 35 Battalion 5135,Military ,0,0,0,1,"October 7, 2023",3,Re'eim ,28,22,5,31.385,34.458,OD
+יונתן אלעזרי,Yonatan Elazari,1,רב״ט,Corporal,סדיר,Conscript,Combat Soldier,1,Brigade 35 Battalion School,Military ,0,0,1,1,"October 7, 2023",5,Ofakim ,20,33,0,31.305,34.617,OD
+אילי גמזו,Ilay Gamzu,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Squad Commander,1,Brigade 35 Battalion School,Military ,0,0,1,1,"October 7, 2023",7,Nativ HaAsara ,6,7,0,31.576,34.553,OD
+יוסף איתמר ברוכים ,Josef Itamar Bruchim,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Company Sargent Major,1,Brigade 35 Battalion School,Military ,0,0,1,1,"October 8, 2023",29,Sderot,9,53,0,31.522,34.596,OD
+איתי יהושע,Itay Yehoshua,1,סרן,Captain ,מילואים,Reserves,Personal Security Unit,1,Personnel Security Unit ,Military ,1,1,1,1,"October 7, 2023",16,Be'eri,15,132,30,31.424,34.492,OD
+רוני אבוהרון ,Roni Abuharon,1,רב נגד,Senior non-commissioned Officer,סדיר ,Professional ,Detective,0,Police Rahat station,Police,0,0,1,1,"October 7, 2023",2,Ofakim,20,33,0,31.305,34.617,YH
+גיל תעסה ,Gil Tasa,1,,Command Sergeant Major,סדיר ,Professional ,Fireman ,1,Alert squad Native HaAsara,Emergency Response Team,0,0,1,1,"October 7, 2023",2,Nativ HaAsara ,6,7,0,31.572,34.539,YH
+אביב אצילי ,Aviv Atzili ,1,,Warrant Officer,סדיר ,Professional ,Civil Emergency Team Member,1,Alert squad Nir Oz,Emergency Response Team,0,0,1,1,"October 7, 2023",2,Nir Oz,5,73,76,31.309,34.402,YH
+טל חיימי ,Tal Chaimi ,1,,Warrant Officer,סדיר ,Professional ,Civil emergency team member,1,Alert squad Nir Itzhak,Emergency Response Team,0,0,1,1,"October 7, 2023",4,Nir Itzhak,6.5,6,8,31.235,34.356,YH
+יצחק בוזוקשווילי  ,Itzhak Bazuka-Shvili ,1,נצ״מ,Commander,סדיר ,Professional ,Station Commander ,0,Police Segev Shalom station,Police,0,1,1,1,"October 7, 2023",9,Re'eim ,28,22,5,31.385,34.458,YH
+שילה כהן,Shilo Cohen,1,סרן,Captain ,סדיר,Professional ,Team Commander,1,Shaldag ,Military ,1,1,1,1,"October 7, 2023",10,Be'eri,15,132,30,31.424,34.492,OD
+עידו רוזנטל,Ido Rosenthal,1,רנ״ג,Senior Non-Commissioned Officer,סדיר,Professional ,Combat Soldier,1,Shaldag ,Military ,1,0,1,1,"October 7, 2023",7,Alumim,8.5,62,5,31.452,34.513,OD
+רום שלומי,Rom Shlomi,1,סרן,Captain ,סדיר,Professional ,Platoon Commander,1,Shaldag ,Military ,1,1,1,1,"October 7, 2023",6,Re'eim Base,5.5,6,0,31.362,34.449,OD
+עידו יהושע,Ido Yehoshua,1,רס״ן,Major,סדיר,Professional ,Company Commander,1,Shaldag ,Military ,1,1,1,1,"October 7, 2023",6,Re'eim Base,5.5,6,0,31.362,34.449,OD
+אהד כהן,Ohad Cohen,1,רס״ל,Sergeant Major,סדיר,Professional ,Combat Soldier,1,Shaldag ,Military ,1,0,1,1,"October 7, 2023",4,Be'eri,15,132,30,31.424,34.492,OD
+אופק רוסו ,Ofek Rousso,1,רס״ל,Sergeant Major,סדיר,Professional ,Combat Soldier,1,Shayetet 13,Military ,1,0,1,1,"October 8, 2023",21,Be'eri,15,132,30,31.424,34.492,OD
+סמדר עידן ,Smadar Idan ,0,,,סדיר ,Professional ,Production ,0,Shin Bet,Shin Bet,0,0,0,0,"October 7, 2023",1,Kfar Aza,50,93,19,31.483416,34.532291,YH
+מאור שלום ,Maor Shalom ,1,,,מילואים,Reserves,Reserves ,1,Shin Bet,Shin Bet,1,1,1,1,"October 7, 2023",,Kfar Aza,50,93,19,31.483416,34.532291,YH
+יוסי טהר  ,Yossi Tahar ,1,,,סדיר ,Professional ,Deputy Head of Unit ,1,Shin Bet,Shin Bet,1,1,1,1,"October 7, 2023",4,Mefalsim,6,90,13,31.50216536,34.56168883,YH
+עידו אדרי ,Ido Edri,1,,,סדיר ,Professional ,Combat Soldier,1,Shin Bet,Shin Bet,1,0,0,1,"October 7, 2023",3,Nova Festival ,8,378,44,31.2352,34.2818,YH
+עילי נחמן ,Ilay Nahman ,1,,,סדיר ,Professional ,Security ,1,Shin Bet,Shin Bet,1,0,1,1,"October 7, 2023",2,Nova Festival ,8,378,44,31.381,34.447,YH
+מיכאל בן משה ,Michael Ben Moshe ,1,,,סדיר ,Professional ,Combat Soldier,1,Shin Bet,Shin Bet,1,0,1,1,"October 7, 2023",3,Kissufim,10,15,1,31.374167,34.399444,YH
+עומר גברה,Omer Gvara,1,,,סדיר ,Professional ,Security ,1,Shin Bet,Shin Bet,1,0,1,1,"October 7, 2023",3,Sderot,9,53,0,31.516,34.586,YH
+אביעד גד כהן,Aviad Gad Cohen,1,רס״ם,Command Sergeant Major,מילואים,Reserves,Civil Emergency Team Member,1,Alert squad Shlomit,Emergency Response Team,0,0,1,1,"October 7, 2023",3,Pri Gan,3,4,0,31.221,34.355,OD
+ראובן שישפורטיש,Reouven Chicheportiche,1,רס״ם,Command Sergeant Major,מילואים,Reserves,Civil Emergency Team Member,1,Alert squad Shlomit,Emergency Response Team,0,0,1,1,"October 7, 2023",3,Pri Gan,3,4,0,31.221,34.355,OD
+בכור סויד,Bechor Swid,1,רס״ר,First Sergeant Major,מילואים,Reserves,Civil Emergency Team Member,1,Alert squad Shlomit,Emergency Response Team,0,0,1,1,"October 7, 2023",2,Magen Junction ,12,2,0,31.293,34.432,OD
+יובל גבאי,Yuval Gabay,1,רס״ר,First Sergeant Major,מילואים,Reserves,Squad Commander,1,Brigade 424 Battaltion 8109,Military ,0,0,1,1,"October 7, 2023",14,East of Ofer Base,0,1,0,31.868,35.185,OD
+יעקב שלמה קרסנינסקי ,Yacov Shlomo Karsinski ,1,רס״מ,Advanced Staff Sergeant Major,סדיר ,Professional ,Mistaarev,1,Police Border Police,Police,0,0,1,0,"October 7, 2023",2,Nahal Oz,10.5,19,8,31.472,34.497,YH
+אהרון פרש,Aharon Farash,1,רס״ם,Command Sergeant Major,סדיר,Professional ,Tester,0,Ordnance Southern District ,Military ,0,0,1,1,"October 7, 2023",3,Urim Base,3.5,8,0,31.313,34.542,OD
+שיר שלמה,Shir Shlomo,0,סמל,Sergeant,סדיר,Conscript,Operations Room Operator ,0,Homefront Command Southern District ,Military ,0,0,1,0,"October 7, 2023",3,Urim Base,3.5,8,0,31.313,34.542,OD
+אלינה פרבוסודובה,Alina Pravosudova,0,סרן,Captain ,סדיר,Professional ,Intelligence Officer,0,Homefront Command Southern District ,Military ,0,1,1,0,"October 7, 2023",3,Urim Base,3.5,8,0,31.313,34.542,OD
+ליאור לוי,Lior Levy,0,רב״ט,Corporal,סדיר,Conscript,Operations Room Operator ,0,Homefront Command Southern District ,Military ,0,0,1,0,"October 7, 2023",2,Urim Base,3.5,8,0,31.313,34.542,OD
+דנית כהן,Danit Cohen,0,סמל,Sergeant,סדיר,Conscript,Operations Room Operator ,0,Homefront Command Southern District ,Military ,0,0,1,0,"October 7, 2023",3,Urim Base,3.5,8,0,31.313,34.542,OD
+איתמר עיש,Itamar Ayash,1,סמל,Sergeant,סדיר,Conscript,Soldier,0,Homefront Command Southern District ,Military ,0,0,1,0,"October 7, 2023",2,Urim Base,3.5,8,0,31.313,34.542,OD
+רן גואילי ,Ran Guili,1,רס״ר ,Staff Sergeant Major,סדיר ,Professional ,Policeman,0,Police Southern District,Police,0,0,1,1,"October 7, 2023",5,Alumim,8.5,62,5,31.452,34.513,YH
+אלון ברד,Alon Barad,1,רס״ב,Senior Staff Sergeant Major,סדיר ,Professional ,Policeman,0,Police Southern District,Police,0,0,1,0,"October 7, 2023",2,Nova Festival ,8,378,44,31.401,34.472,YH
+יוליה ווקסר דאונוב ,Yulia Vekser,0,רס״מ,Advanced Staff Sergeant Major,סדיר ,Professional ,Policeman,0,Police Southern District,Police,0,0,1,0,"October 7, 2023",4,Nova Festival ,8,378,44,31.401,34.472,YH
+שרון רחמני ,Sharon Rachmani ,0,רס״מ,Advanced Staff Sergeant Major,סדיר ,Professional ,Policewoman,0,Police Southern District,Police,0,0,1,0,"October 7, 2023",4,Nova Festival ,8,378,44,31.401,34.472,YH
+דבורה אברהם ,Dvora Avraham ,0,רס״ב,Senior Staff Sergeant Major,סדיר ,Professional ,Policewoman,0,Police Southern District,Police,0,0,1,0,"October 7, 2023",3,Nova Festival ,8,378,44,31.401,34.472,YH
+אליק פוזדניאקוב ,Alik Pozdnyakiv,1,רס״ב,Senior Staff Sergeant Major,סדיר ,Professional ,Policeman,0,Police Southern District,Police,0,0,1,0,"October 7, 2023",3,Nova Festival ,8,378,44,31.401,34.472,YH
+אנדריי פושיביאי,Andrei Poshivay,1,פקד,Cheif Inspector ,סדיר ,Professional ,Policeman,0,Police Southern District,Police,0,1,1,1,"October 7, 2023",3,Nova Festival ,8,378,44,31.401,34.472,YH
+אבי בוזגלו ,Avi Buzaglo ,1,רס״ר,Staff Sergeant Major,סדיר ,Professional ,Policeman,0,Police Southern District,Police,0,0,1,1,"October 7, 2023",2,Ofakim,20,33,0,31.305,34.617,YH
+אוריאל אברהם ,Uriel Avraham,1,רס״מ,Advanced Staff Sergeant Major,סדיר ,Professional ,Policeman,0,Police Southern District,Police,0,0,1,1,"October 7, 2023",4,Re'eim ,28,22,5,31.385,34.458,YH
+יקיר בלוכמן,Yakir Blochman ,1,רס״ב,Senior Staff Sergeant Major,סדיר ,Professional ,Policeman,0,Police Southern District,Police,0,0,1,1,"October 7, 2023",9,Re'eim ,28,22,5,31.385,34.458,YH
+ירון דיין מוריס ,Yaron Dayan Moris ,1,רב נגד,Senior non-commissioned Officer,סדיר ,Professional ,Policeman,0,Police Southern District,Police,0,0,1,0,"October 7, 2023",2,Sderot,9,53,0,31.522,34.596,YH
+מאיר אברג׳ל ,Meir Abargil ,1,רב נגד,Senior non-commissioned Officer,סדיר ,Professional ,Policeman,0,Police Southern District,Police,0,0,1,1,"October 7, 2023",2,Sderot,9,53,0,31.522,34.596,YH
+דניס בלנקי ,Denis Belinki,1,רב נגד,Senior non-commissioned Officer,סדיר ,Professional ,Policeman,0,Police Southern District,Police,0,0,1,0,"October 7, 2023",3,Sderot,9,53,0,31.522,34.596,YH
+דוד בן דיין ,David Ben Dayan ,1,רב נגד,Senior non-commissioned Officer,סדיר ,Professional ,Policeman,0,Police Southern District,Police,0,0,1,0,"October 7, 2023",2,Sderot,9,53,0,31.522,34.596,YH
+שמואל סמצ׳או גולימה ,Shmuel Gulima ,1,רב נגד,Senior non-commissioned Officer,סדיר ,Professional ,Policeman,0,Police Southern District,Police,0,0,1,1,"October 7, 2023",2,Sderot,9,53,0,31.522,34.596,YH
+אליהו מיכאל הרוש,Eliyahu Michael Harush ,1,רס״ר,Staff Sergeant Major,סדיר ,Professional ,Policeman,0,Police Southern District,Police,0,0,1,0,"October 7, 2023",2,Sderot,9,53,0,31.522,34.596,YH
+אדיר יען שלמה ,Adir Shlomo,1,רב נגד,Senior non-commissioned Officer,סדיר ,Professional ,Policeman,0,Police Southern District,Police,0,0,1,1,"October 7, 2023",2,Sderot,9,53,0,31.522,34.596,YH
+מור שקורי ,Mor Shkuri ,0,רס״מ,Advanced Staff Sergeant Major,סדיר ,Professional ,Policewoman,0,Police Southern District,Police,0,0,1,0,"October 7, 2023",6,Sderot,9,53,0,31.522,34.596,YH
+אליונה אסטפנקו ,Eliona Astafniko,0,רב סמל,Sergeant Major,סדיר ,Professional ,Policewoman,0,Police Southern District,Police,0,0,1,0,"October 7, 2023",2,Re'eim ,28,22,5,31.343,34.501,YH
+אבי צידון ,Avi Zidon ,1,רב פקד,Superintendent,סדיר ,Professional ,Policeman,0,Police Southern District,Police,0,1,1,1,"October 7, 2023",2,Pri Gan ,3,4,0,31.221,34.355,YH
+אופיר ארז,Ofir Erez,1,רס״ן,Major,מילואים,Reserves,Civil Emergency Team Member,1,Alert squad Sufa,Emergency Response Team,0,1,1,1,"October 7, 2023",2,Sufa,11.5,3,0,31.238,34.341,OD
+עדו חוברה,Ido Hubara,1,רס״ן,Major,מילואים,Reserves,Civil Emergency Team Member,1,Alert squad Sufa,Emergency Response Team,0,1,1,1,"October 7, 2023",6,Sufa,11.5,3,0,31.238,34.341,OD
+ויטלי קרסיק,Vitaly Karasik ,1,רס״ב,Senior Staff Sergeant Major,סדיר ,Professional ,Policeman,0,Police Tel Aviv District,Police,0,0,1,0,"October 7, 2023",2,Nova Festival ,8,378,44,31.401,34.472,YH
+איתי נחמיאס,Itay Nachmias,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Combat Soldier,1,Brigade 888,Military ,1,0,1,1,"October 7, 2023",3,Mivtachim,8.5,5,0,31.242,34.407,OD
+יונתן גוטין,Yonatan Goutin,1,סגן,First Lieutenant,סדיר,Professional ,ICT,1,Brigade 888,Military ,0,1,1,1,"October 7, 2023",11,Be'eri,15,132,30,31.424,34.492,OD
+רועי יוסף לוי,Roy Joseph Levy,1,אל״מ,Colonel ,סדיר,Professional ,Brigade Commander,1,Brigade 888,Military ,1,1,1,1,"October 7, 2023",8,Re'eim ,28,22,5,31.385,34.458,OD
+יותם בן בסט,Yotam Ben Bassat,1,סרן,Captain ,סדיר,Professional ,Team Commander,1,Brigade 888,Military ,1,1,1,0,"October 7, 2023",8,Nova Festival,8,378,44,31.401,34.472,OD
+נועם אלימלך רוטנברג,Noam Elimelech Rojtenbarg,1,סמ״ר,Staff Sergeant,סדיר,Conscript,Programmer ,0,Trainings ,Military ,0,0,0,0,"October 7, 2023",5,Nova Festival,8,378,44,31.401,34.472,OD
+איתי כהן,Etai Cohen,1,סרן,Captain ,סדיר,Professional ,Team Commander,1,Yahalom ,Military ,1,1,1,1,"October 7, 2023",7,Alumim,8.5,62,5,31.452,34.513,OD
+יוסף מלאכי גדליה ,Joseph Malachi Guedalia  ,1,,Sergeant First Class,,Professional ,Combat Soldier,1,Brigade 89 Battalion 217,Military ,1,0,1,1,"October 7, 2023",5,Kfar Aza,50,93,19,31.483416,34.532291,OD
+סטניסלב סטס שיינקמן,Stas Sheinkman ,1,רב פקד,Superintendent,סדיר ,Professional ,Policeman,1, Police Yamam,Police,1,1,1,1,"October 7, 2023",2,Re'eim ,28,22,5,31.385,34.458,YH
+חן נחמיאס ,Chen Nahmias ,1,רב נגד,Senior non-commissioned Officer,סדיר ,Professional ,Policeman,1, Police Yamam,Police,0,1,1,1,"October 7, 2023",2,Sderot,9,53,0,31.522,34.596,YH
+אלכסיי שמקלוב ,Alexei Shmakalov ,1,רב פקד,Superintendent,סדיר ,Professional ,Policeman,1, Police Yamam,Police,1,1,1,1,"October 7, 2023",3,Sderot,9,53,0,31.522,34.596,YH
+אבשלום יאיר פרץ ,Avshalom Yair Peretz,1,רס״מ,Advanced Staff Sergeant Major,סדיר ,Professional ,Policeman,1, Police Yamam,Police,1,0,1,1,"October 7, 2023",3,Sha'ar HaNegev Junction,24,25,0,31.508,34.585,YH
+דרור אלטון ,Dror Alton ,1,רס״מ,Advanced Staff Sergeant Major,סדיר ,Professional ,Policeman,1, Police Yamam,Police,1,0,1,1,"October 7, 2023",3,Sha'ar HaNegev Junction,24,25,0,31.508,34.585,YH
+אברהם הנקין ,Avraham Henkin,1,רב פקד,Superintendent,סדיר ,Professional ,Policeman,1, Police Yamam,Police,1,1,1,1,"October 7, 2023",3,Sha'ar HaNegev Junction,24,25,0,31.508,34.585,YH
+יוראי אליהו כהן ,Yorai Eliyau Cohen ,1,רס״ב,Senior Staff Sergeant Major,סדיר ,Professional ,Policeman,1, Police Yamam,Police,1,0,1,1,"October 7, 2023",3,Sha'ar HaNegev Junction,24,25,0,31.508,34.585,YH
+משהאל שלמה,Shlomo Moshe El,1,רב פקד,Superintendent,סדיר ,Professional ,Policeman,1, Police Yamam,Police,1,1,1,1,"October 7, 2023",3,Sha'ar HaNegev Junction,24,25,0,31.508,34.585,YH
+בר סיון ,Bar Sivan ,1,רס״ב,Senior Staff Sergeant Major,סדיר ,Professional ,Policeman,1, Police Yamam,Police,1,0,1,1,"October 7, 2023",3,Sha'ar HaNegev Junction,24,25,0,31.508,34.585,YH
+אלכסיי בודובסקי ,Alexy Budovski,1,רס״ב,Senior Staff Sergeant Major,סדיר ,Professional ,Policeman,1, Police Yamam,Police,0,0,1,1,"October 7, 2023",4,Re'eim ,28,22,5,31.385,34.458,YH
+גיל אביטל,Gil Avital,1,רס״ם,Command Sergeant Major,מילואים,Reserves,Civil Emergency Team Member,1,Alert squad Yesha,Emergency Response Team,0,0,1,1,"October 7, 2023",3,Mivtachim,8.5,5,0,31.242,34.407,OD
+ליאור בן יעקב,Lior Ben Yaakov,1,רס״ם,Command Sergeant Major,מילואים,Reserves,Deputy Military Security Coordinator,1,Alert squad Yesha,Emergency Response Team,0,0,1,1,"October 7, 2023",3,Mivtachim,8.5,5,0,31.242,34.407,OD
+אבי עמר ,Avi Amar ,1,סגן ניצב ,Cheif Superintendent ,סדיר ,Professional ,Policeman,1,Police Yoav,Police,0,1,1,1,"October 7, 2023",9,Be'eri,15,132,30,31.424,34.492,YH
+אמין אחונדוב,Amin Ahanadov,1,רב פקד,Superintendent,סדיר ,Professional ,Policeman,1,Police Yoav,Police,1,1,1,0,"October 7, 2023",3,Nova Festival ,8,378,44,31.401,34.472,YH
