@@ -1,0 +1,276 @@
+======================================================================
+EMBEDDED RESPONSE CAPACITY (ERC): REPLICATION ANALYSIS
+======================================================================
+
+Replication code for all hypothesis tests (H1–H5)
+Output log: results/ERC_analysis_output.txt
+
+Loaded fatalities dataset: N = 369
+Loaded locations dataset: N = 37
+
+======================================================================
+H1: TWO-WAVE RESPONSE HYPOTHESIS
+======================================================================
+
+Sample sizes:
+  Stationed: n = 216
+  Self-Joined: n = 148
+
+Descriptive Statistics
+--------------------------------------------------
+
+  Stationed:
+    Mean:   4.05 hours
+    Median: 3.0 hours
+    SD:     3.49
+    IQR:    2–5
+    Range:  1–34
+
+  Self-Joined:
+    Mean:   6.21 hours
+    Median: 4.0 hours
+    SD:     6.04
+    IQR:    3–7
+    Range:  1–41
+
+  Mean difference: 2.16 hours
+
+Statistical Tests
+--------------------------------------------------
+
+  Mann-Whitney U test (one-tailed: stationed < self-joined):
+    U = 11143, p = 2.51e-07
+    Rank-biserial correlation: r = 0.303
+
+  Welch's t-test:
+    t = -3.930, p = 1.15e-04
+    Cohen's d = 0.461
+
+  Kolmogorov-Smirnov test:
+    D = 0.258, p = 1.24e-05
+
+  Early response (≤3 hours) chi-square:
+    Stationed:   146/216 (67.6%)
+    Self-joined: 68/148 (45.9%)
+    χ²(1) = 16.10, p = 5.99e-05
+
+Table 2: Temporal Characteristics
+--------------------------------------------------
+
+                                         Stationed  Self-Joined               Test
+                                           (n=216)      (n=148)
+  ------------------------------------------------------------------------------
+  Mean time (hours)                           4.05         6.21             t=3.93
+  Median time (hours)                          3.0          4.0            U=11143
+  SD                                          3.49         6.04
+  IQR (hours)                                  2–5          3–7
+  % killed ≤ 3 hours                         67.6%        45.9%            χ²=16.1
+  Effect size (Cohen d)                                                     d=0.46
+  All tests                                                               p < .001
+
+======================================================================
+H2: VOLUNTARY MOBILIZATION HYPOTHESIS
+======================================================================
+
+  Total (with coded Joined): 368
+  Self-Joined: 150 (40.8%), 95% CI [35.9%, 45.9%]
+  Stationed:   218 (59.2%)
+
+  Among combat participants (n=343): 145 self-joined (42.3%)
+
+  Binomial test (H0: ≤25%): p = 2.49e-11
+  Binomial test (H0: ≤33%): p = 1.09e-03
+
+Chi-Square Tests by Subgroup
+--------------------------------------------------
+
+  Branch: χ²(3) = 106.0, p = 7.94e-23, Cramér's V = 0.537
+    Military                 : 65/260 (25.0%) self-joined
+    Police                   : 36/58 (62.1%) self-joined
+    Shin Bet                 : 6/7 (85.7%) self-joined
+    Emergency Response Team  : 43/43 (100.0%) self-joined
+
+  Service status: χ²(2) = 152.5, p = 7.56e-34, Cramér's V = 0.644
+    Conscript                : 14/166 (8.4%) self-joined
+    Professional             : 83/145 (57.2%) self-joined
+    Reserves                 : 53/57 (93.0%) self-joined
+
+  SOF: χ²(1) = 51.7, p = 6.39e-13, Cramér's V = 0.375
+    0                        : 100/308 (32.5%) self-joined
+    1                        : 50/60 (83.3%) self-joined
+    Odds ratio: 10.40
+
+  Officer: χ²(1) = 26.6, p = 2.56e-07, Cramér's V = 0.269
+    0                        : 90/274 (32.8%) self-joined
+    1                        : 60/94 (63.8%) self-joined
+    Odds ratio: 3.61
+
+Table 3: Self-Joining Rates by Subgroup
+--------------------------------------------------
+
+  Subgroup                        Stat  Self  Total      %SJ
+  --------------------------------------------------------
+  OVERALL                          218   150    368    40.8%
+  Branch:
+    Military                       195    65    260    25.0%
+    Police                          22    36     58    62.1%
+    Shin Bet                         1     6      7    85.7%
+    Emergency Response Team          0    43     43   100.0%
+  Service status:
+    Conscript                      152    14    166     8.4%
+    Professional                    62    83    145    57.2%
+    Reserves                         4    53     57    93.0%
+  SOF:
+    No                             208   100    308    32.5%
+    Yes                             10    50     60    83.3%
+  Officer:
+    No                             184    90    274    32.8%
+    Yes                             34    60     94    63.8%
+
+======================================================================
+H3: ERC PROFILE HYPOTHESIS — LOGISTIC REGRESSION
+======================================================================
+
+  Analysis sample: N = 325 (excl. 43 ERT — perfect separation)
+  Self-joined: 107 (32.9%)
+
+Bivariate Logistic Regressions
+--------------------------------------------------
+  Officer                             OR =   5.12 [3.02, 8.67], p = 0.0000
+  SOF                                 OR =  18.25 [8.71, 38.22], p = 0.0000
+  Reserves (vs Conscript+Prof)        OR =   7.40 [2.35, 23.29], p = 0.0006
+  Professional (vs Conscript)         OR =   7.46 [4.40, 12.62], p = 0.0000
+  Police/Security (vs Military)       OR =   5.48 [3.06, 9.79], p = 0.0000
+
+Full Multivariate Model
+--------------------------------------------------
+
+  N = 325
+  Pseudo R² (McFadden): 0.371
+  Log-likelihood: -129.4
+  AIC: 270.9
+  LLR χ²: 153.0, p = 3.10e-31
+
+  Variable                      β       SE       OR           95% CI          p
+  --------------------------------------------------------------------------
+  Constant                 -2.573    0.294     0.08 [0.04, 0.14]    0.0000***
+  Officer                   1.134    0.484     3.11 [1.20, 8.03]    0.0192*
+  SOF                       2.643    0.453    14.06 [5.79, 34.14]    0.0000***
+  Reserves                  2.601    0.725    13.48 [3.25, 55.86]    0.0003***
+  Professional              0.609    0.582     1.84 [0.59, 5.75]    0.2948
+  Police/Security           1.951    0.531     7.04 [2.49, 19.92]    0.0002***
+
+  Classification:
+    Accuracy:    82.5%
+    Sensitivity: 60.7%
+    Specificity: 93.1%
+
+SOF × Officer Interaction Test
+--------------------------------------------------
+  LR test for interaction: χ²(1) = 0.14, p = 0.711
+  Interaction NOT significant
+
+Predicted Probabilities
+--------------------------------------------------
+  Conscript, non-officer, non-SOF, Military          P = 7.1%
+  Professional, non-officer, non-SOF, Military       P = 12.3%
+  Professional, officer, non-SOF, Military           P = 30.4%
+  Reserves, non-officer, non-SOF, Military           P = 50.7%
+  Professional, non-officer, SOF, Military           P = 66.4%
+  Professional, officer, non-SOF, Police             P = 75.4%
+  Professional, officer, SOF, Military               P = 86.0%
+  Reserves, officer, SOF, Military                   P = 97.8%
+
+  Emergency Response Teams (excluded from regression):
+    N = 43, Self-Joined = 43 (100.0%)
+
+======================================================================
+H4: AD HOC TEAM FORMATION
+======================================================================
+
+  Responding locations: 32
+
+Unit Diversity
+--------------------------------------------------
+  Mean: 7.6, Median: 5.5
+  SD: 6.5, Range: 2–35
+
+Branch Diversity
+--------------------------------------------------
+  ≥2 branches: 18/32 (56.2%)
+  ≥3 branches: 4/32 (12.5%)
+  SOF present: 24/32 (75.0%)
+  1 branch(es): 14 locations (43.8%)
+  2 branch(es): 14 locations (43.8%)
+  3 branch(es): 3 locations (9.4%)
+  4 branch(es): 1 locations (3.1%)
+
+  Unit × Branch diversity: r = 0.587, p = 0.0004
+
+Table 5: Organizational Diversity
+--------------------------------------------------
+  Locations with military response                           32
+  Total unit-location observations                          242
+  Distinct organizational units                             145
+  Mean units per location (SD)                        7.6 (6.5)
+  Median units per location                                 5.5
+  Locations with ≥2 branches                         18 (56.2%)
+  Locations with ≥3 branches                          4 (12.5%)
+  Locations with SOF presence                        24 (75.0%)
+
+======================================================================
+H5: OPERATIONAL STABILIZATION
+======================================================================
+
+Response vs. No-Response Comparison
+--------------------------------------------------
+
+  Civilian locations with response:    23
+  Civilian locations WITHOUT response: 5
+
+  No-response locations:
+    Kibbutz Nir Oz: 51 killed, 76 kidnapped
+    Psyduck festival: 17 killed, 0 kidnapped
+    Kibbutz Erez: 1 killed, 0 kidnapped
+    Kibbutz Magen: 1 killed, 0 kidnapped
+    Moshav Ein HaBesor: 0 killed, 0 kidnapped
+
+  Nir Oz (no response): 76 kidnapped / 127 total = 59.8% kidnapping ratio
+
+Kidnapping Ratios at Civilian Communities
+--------------------------------------------------
+
+  Location                       Units  Killed   Kid    Ratio
+  ----------------------------------------------------------
+  Kibbutz Nir Oz                  NONE      51    76    59.8%
+  Nova festival                      9     378    44    10.4%
+  Kibbutz Be'eri                    21     132    30    18.5%
+  Kibbutz Kfar Aza                  35      93    19    17.0%
+  kibbutz Nirim                      7      15    13    46.4%
+  Kibbutz Mefalsim, Black arro       8      90    13    12.6%
+  Kibbutz Nahal Oz                   6      19     8    29.6%
+  Kibbutz Nir Yitzhak                3       6     8    57.1%
+  Kibbutz Holit                      5      18     6    25.0%
+  Kibbutz Alumim                    13      62     5     7.5%
+  Kibbutz Re'im                     13      22     5    18.5%
+  Kibbutz Nir Am                     4       2     2    50.0%
+  Kibbutz Kisufim                   11      27     1     3.6%
+  Psyduck festival                NONE      17     0     0.0%
+  Kibbutz Erez                    NONE       1     0     0.0%
+  Kibbutz Magen                   NONE       1     0     0.0%
+  Moshav Ein HaBesor              NONE       0     0     0.0%
+
+Correlations with Time to Operational Control
+--------------------------------------------------
+  Unit diversity × TtC: Pearson r = 0.788 (p=0.0000), Spearman ρ = 0.520 (p=0.0077)
+  Unit diversity × Kid: Pearson r = 0.497 (p=0.0114), Spearman ρ = 0.563 (p=0.0034)
+
+  NOTE: Positive correlations reflect endogeneity — more severely
+  attacked locations attracted larger, more diverse responses.
+
+======================================================================
+ANALYSIS COMPLETE
+======================================================================
+
+All results saved to: results/ERC_analysis_output.txt
+Figures should be generated using: ERC_figures.py
