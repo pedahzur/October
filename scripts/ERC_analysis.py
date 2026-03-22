@@ -12,12 +12,12 @@ It produces tables and test statistics for hypotheses H1–H5.
 Requirements:
     pip install numpy scipy statsmodels pandas
 
-Input files (place in same directory as this script):
-    1. fatalities.csv          — Dataset 2: Security personnel fatalities (N=369)
-    2. locations_units.csv     — Dataset 1: Combat participation by location (N=37)
+Input files (relative to repository root):
+    1. data/fatalities.csv          — Dataset 2: Security personnel fatalities (N=369)
+    2. data/locations_units.csv     — Dataset 1: Combat participation by location (N=37)
 
-Usage:
-    python ERC_analysis.py
+Usage (from repository root):
+    python scripts/ERC_analysis.py
 """
 
 import csv
@@ -38,11 +38,13 @@ warnings.filterwarnings("ignore")
 # CONFIGURATION
 # ============================================================================
 
-FATALITIES_FILE = "fatalities.csv"
-LOCATIONS_FILE = "locations_units.csv"
+_REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+FATALITIES_FILE = os.path.join(_REPO_ROOT, "data", "fatalities.csv")
+LOCATIONS_FILE = os.path.join(_REPO_ROOT, "data", "locations_units.csv")
 
 # Output
-OUTPUT_DIR = "results"
+OUTPUT_DIR = os.path.join(_REPO_ROOT, "results")
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 LOG_FILE = os.path.join(OUTPUT_DIR, "ERC_analysis_output.txt")

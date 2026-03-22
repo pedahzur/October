@@ -6,12 +6,12 @@ Generates all publication-ready figures for the manuscript.
 Requirements:
     pip install numpy matplotlib scipy
 
-Input files (place in same directory):
-    1. fatalities.csv
-    2. locations_units.csv
+Input files (relative to repository root):
+    1. data/fatalities.csv
+    2. data/locations_units.csv
 
-Usage:
-    python ERC_figures.py
+Usage (from repository root):
+    python scripts/ERC_figures.py
 
 Output:
     figures/ directory containing PDF and PNG versions of all figures.
@@ -30,9 +30,11 @@ import os
 # CONFIG
 # ============================================================================
 
-FATALITIES_FILE = "fatalities.csv"
-LOCATIONS_FILE = "locations_units.csv"
-FIG_DIR = "figures"
+_REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+FATALITIES_FILE = os.path.join(_REPO_ROOT, "data", "fatalities.csv")
+LOCATIONS_FILE = os.path.join(_REPO_ROOT, "data", "locations_units.csv")
+FIG_DIR = os.path.join(_REPO_ROOT, "figures")
 os.makedirs(FIG_DIR, exist_ok=True)
 
 DPI = 300
