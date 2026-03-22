@@ -83,7 +83,6 @@ Dataset 3 (N=230 units, 63 variables) is used for qualitative institutional anal
 | H2: Voluntary Mobilization | Proportions, binomial tests, chi-square by subgroup | `test_h2()` |
 | H3: ERC Profile | Logistic regression (SOF, officer, service status, branch) | `test_h3()` |
 | H4: Ad Hoc Team Formation | Organizational diversity per location, branch diversity | `test_h4()` |
-| H5: Operational Stabilization | Response vs. no-response comparison, correlations | `test_h5()` |
 
 ## Notes
 
